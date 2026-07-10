@@ -1,0 +1,74 @@
+"# Dexity Intel — real job descriptions backing this role's article. Source: public ATS boards (Greenhouse/Lever/Ashby) official JSON APIs. Snapshot: July 2026, rolling scan. Each row is a real posting — verify by searching the title at the company."
+
+company,job_title,word_count
+anthropic,"Anthropic Fellows Program, ML Systems & Performance",1718
+anthropic,"Engineering Manager, Inference",947
+anthropic,"Performance Engineer, Inference Systems",1274
+anthropic,"Senior Software Engineer, Inference",961
+anthropic,"Staff + Senior Software Engineer, Inference",1060
+anthropic,"Staff + Senior Software Engineer, Inference Deployment",1096
+anthropic,"Staff Software Engineer, Inference",1028
+anthropic,"Staff+ Software Engineer, Inference Runtime",1247
+anthropic,"Staff + Sr. Software Engineer, Cloud Inference",1138
+anthropic,"Technical Program Manager, Cloud Inference",1093
+anthropic,"Technical Program Manager, Inference Performance",1038
+scaleai,"AI Infrastructure Engineer, Model Serving Platform",788
+scaleai,"ML Research Engineer, ML Systems",790
+scaleai,"ML Systems Engineer, Robotics",946
+scaleai,Senior AI Infrastructure Engineer - Training Platform,916
+scaleai,"Software Engineer, Frontier AI Infrastructure",1058
+scaleai,"Tech Lead Manager- MLRE, ML Systems",805
+databricks,Software Engineer - GenAI inference ,709
+databricks,Staff Software Engineer - GenAI inference,732
+cloudflare,"Head of GTM, AI Inference",1644
+coinbase,"Senior Site Reliability Engineer, Core AI Infrastructure",654
+coinbase,"Staff Site Reliability Engineer, Core AI Infrastructure",710
+samsara,Lead Machine Learning Engineer - ML Infrastructure,1580
+airbnb,"(Contract) Senior Data Scientist, Platform Inference - MarTech DS Measurement",825
+lyft,"Senior Data Scientist, Causal Inference",537
+reddit,"Machine Learning Systems Engineer, Ads ML Platform",687
+reddit,"Staff Technical Product Manager, Ads ML Platform ",1068
+roblox,"[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career",778
+roblox,Senior Hardware Engineer - GPU & AI Infrastructure,797
+roblox,Senior / Principal Infrastructure Engineer - ML Platform,721
+roblox,"Senior/Principal Platform Engineer, ML Platform",839
+mixpanel,"Engineering Manager, AI Infrastructure",1121
+postman,Head of AI Platform Engineering,835
+roku,"Lead Machine Learning Inference Engineer, Advertising",1021
+roku,"Senior Software Engineer, MLOps/SRE",1096
+oura,Senior Platform Engineer (DevOps / MLOps) ,1107
+jetbrains,Senior MLOps Engineer (ML Workflows Engineering),555
+nuro,"Senior Software Engineer, ML Infrastructure",669
+nuro,"Senior/Staff Software Engineer, ML Infrastructure, Optimization",556
+nuro,"Software Engineer, ML Infrastructure",668
+nuro,"Software Engineer, ML Infrastructure, Optimization",557
+mistral,"Applied AI Engineer, ML Infrastructure Engineer / Devops - EMEA",614
+thinkahead,AI Platform Engineer,553
+jobgether,ML Infrastructure Engineer,450
+jobgether,MLOps Engineer,461
+jobgether,Senior Data and AI Platform Engineer,462
+jobgether,"Senior Manager, AI Infrastructure Operations",599
+jobgether,Senior ML Operations (MLOps) Engineer,516
+headway,Senior Staff Data Scientist - Bayesian Experimentation & Causal Inference,1247
+openai,"Supply Chain Operations Program Manager, AI Infrastructure",1001
+openai,"Software Engineer, Monetization ML Infrastructure",885
+openai,"Inference Engineer, Robotics",663
+openai,"Software Engineer, Inference - Multi Modal",763
+openai,"TL, Research Inference",740
+openai,"Software Engineer, Model Inference",727
+openai,"Software Engineer, Inference - Performance Optimization",591
+openai,"Software Engineer,  ML Systems & Training Architecture",738
+openai,"Software Engineer, Inference – AMD GPU Enablement ",739
+openai,"Software Engineer, Productivity - Inference Runtime",1053
+openai,"Inference Technical Lead, On-Device Transformers",697
+openai,Supply Chain Program Manager (SCPM) - AI Infrastructure,989
+cursor,"Software Engineer, Model Routing & Inference",296
+cursor,"Software Engineer, ML Infrastructure",295
+baseten,"Product Manager, Inference Platform",778
+baseten,Solution Architect (AI/LLM Inference),601
+baseten,Software Engineer - Voice AI (Inference Runtime),744
+baseten,Applied AI Inference - Forward Deployed Engineer,684
+baseten,Applied AI Inference Engineer,685
+baseten,Software Engineer- BIS (Baseten Inference Stack),673
+baseten,Product Engineer - Dedicated Inference ,510
+modal,Member of Technical Staff - Inference Research,549

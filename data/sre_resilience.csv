@@ -1,0 +1,216 @@
+"# Dexity Intel — real job descriptions backing this role's article. Source: public ATS boards (Greenhouse/Lever/Ashby) official JSON APIs. Snapshot: July 2026, rolling scan. Each row is a real posting — verify by searching the title at the company."
+
+company,job_title,word_count
+anthropic,"IT Systems Engineer, Client Platform Engineer",1364
+anthropic,"Senior Staff+ Infrastructure Engineer, Cluster Infrastructure",1106
+anthropic,"Staff+ Infrastructure Engineer, Cluster Infrastructure",1106
+anthropic,"Staff Software Engineer, AI Reliability Engineering",1054
+figma,Data Platform Engineer,1066
+scaleai,"AI Infrastructure Engineer, Model Serving Platform",788
+scaleai,Senior AI Infrastructure Engineer - Training Platform,916
+databricks,Sr. IT Site Reliability Software Engineer,648
+gitlab,"Site Reliability Engineer, Cloud Cost Utilization",1004
+cloudflare,Customer Reliability Engineer,1968
+cloudflare,Network Reliability Engineer,1083
+cloudflare,Senior Customer Reliability Engineer,1967
+asana,Senior Infrastructure Engineer (Software-Focused),843
+asana,"Senior Software Engineer, Site Reliability",913
+asana,"Tech Lead, Platform Reliability Engineering",1042
+coinbase,"Senior Site Reliability Engineer, Core AI Infrastructure",654
+coinbase,"Senior Site Reliability Engineer, Workforce Identity",710
+coinbase,"Staff Site Reliability Engineer, Core AI Infrastructure",710
+robinhood,Senior Network Reliability Engineer,846
+samsara,Senior Hardware Reliability Engineer,1255
+elastic,Site Reliability Engineer (Hosted Infra) - Platform,1185
+datadog,Senior Software Engineer - Bits AI SRE,998
+mongodb,"Manager, Site Reliability Engineering - Storage Layer Service",698
+mongodb,Senior Platform Engineer,810
+mongodb,"Senior Site Reliability Engineer,  Fleet Management",868
+mongodb,Site Reliability Engineer 3,815
+mongodb,Site Reliability Engineer (Senior or Staff),756
+mongodb,"Site Reliability Engineer (Senior or Staff), Atlas",818
+mongodb,"Site Reliability Engineer (Senior or Staff), Infrastructure Security",875
+mongodb,"Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)",839
+mongodb,"Staff Site Reliability Engineer, Fabric",830
+mongodb,"Staff Technical Program Manager, Site Reliability Engineering",860
+twilio,Senior Infrastructure Engineer - Stytch,1142
+dropbox,"Senior Client Platform Engineer, Windows",453
+dropbox,"Staff Site Reliability Engineer, Production Engineering",579
+gusto,Senior Staff Engineer - Tax Platform Engineering,1093
+affirm,"Manager, Software Engineering (Resilience Engineering)",849
+faire,Senior Staff Machine Learning Platform Engineer,977
+faire,Staff Machine Learning Platform Engineer,931
+webflow,Senior Infrastructure Engineer ,1192
+securityscorecard,Senior Site Reliability Engineer,812
+hivewatch,Senior Site Reliability Engineer,1046
+medrio,Senior Site Reliability Engineer,373
+airbnb,Audiovisual Infrastructure Engineer,765
+airbnb,"Engineering Manager, Storage SRE",832
+airbnb,"Senior Software Engineer, Reliability Engineering Team",742
+airbnb,"Senior Staff Machine Learning Engineer, Growth Platform Engineering",1136
+airbnb,"Software Engineer, Reliability Engineering Team",741
+reddit,"Senior SRE, Ads",670
+reddit,Staff Site Reliability Engineer - Site Experience,901
+reddit,"Staff SRE, Ads",784
+stripe,"Infrastructure Engineer, Privy",390
+stripe,"Integration Reliability Engineer, Technical Operations",538
+stripe,People Systems Platform Engineer (Salesforce),912
+roblox,Senior / Principal Infrastructure Engineer - ML Platform,721
+roblox,"Senior/Principal Platform Engineer, ML Platform",839
+roblox,"Senior Site Reliability Engineer, Compute",756
+okta,Manager- Site Reliability Engineering,677
+okta,"Manager, Site Reliability Engineering",908
+okta,Manager SRE,772
+okta,Principal Data Platform Engineer (Bengaluru),887
+okta,Principal Site Reliability Engineer,1409
+okta,Senior Database Reliability Engineer (DBRE),964
+okta,Senior Data Platform Engineer (Bengaluru),792
+okta,"Senior Manager, Site Reliability Engineering (Federal)",912
+okta,"Senior Manager, Site Reliability Engineering -  Infrastructure Platform",835
+okta,"Senior Platform Engineer, Runtime (Auth0)",905
+okta,Senior Site Reliability Engineer,1090
+okta,Senior Site Reliability Engineer (Auth0),828
+okta,"Senior Site Reliability Engineer, Kubernetes w/ active TS/SCI",784
+okta,Senior Site Reliability Engineer- Observability,858
+okta,Software Engineering Manager - Core & Resilience Engineering,709
+okta,SRE Operations Engineer,636
+okta,Staff Site Reliability Engineer,1083
+okta,Staff Site Reliability Engineer - (Infra),773
+okta,Staff Site Reliability Engineer (K8s platform),913
+okta,Staff Site Reliability Engineer - Kubernetes,1109
+okta,"Staff Site Reliability Engineer, Kubernetes w/ active TS/SCI",870
+okta,Staff Site Reliability Engineer - Observability ,811
+okta,Staff Site Reliability Engineer - Observability GCP,788
+okta,Staff Site Reliability Engineer- Observability (Splunk),773
+okta,"Staff Site Reliability Engineer, Security- GCP",1046
+pinterest,"Site Reliability Engineer II, tvScientific",993
+nextdoor,"Client Platform Engineer, AI & Automation",1152
+toast,Principal Infrastructure Engineer,1001
+toast,Senior Infrastructure Engineer,872
+fivetran,Senior Site Reliability Engineer,1098
+fivetran,Staff Site Reliability Engineer,1084
+amplitude,Senior Platform Engineer (Cloud Platform),1070
+amplitude,Staff Platform Engineer ,1324
+postman,Head of AI Platform Engineering,835
+clickhouse,Cloud Database Infrastructure Engineer,776
+clickhouse,Database Reliability Engineer - Core Team,898
+clickhouse,Senior Infrastructure Engineer - Postgres,905
+clickhouse,Senior Site Reliability Engineer- Remote ,914
+abnormalsecurity,Senior Software Engineer - Platform Engineering - Federal Operations,580
+abnormalsecurity,Software Engineer II - Cloud Infrastructure Engineer,628
+cribl,Senior Site Reliability Engineer,896
+sumologic,Senior Site Reliability Engineer I,564
+sumologic,Site Reliability Engineer I,562
+klaviyo,"Senior Software Engineer, Platform Engineering",963
+braze,Senior Site Reliability Engineer,1544
+iterable,Senior Infrastructure Engineer,1049
+roku,"Senior Machine Learning Engineer, DevOps/SRE",1112
+roku,"Senior Software Engineer, MLOps/SRE",1096
+roku,"Senior Software Engineer,  SRE",1565
+peloton,Reliability Engineer II,953
+peloton,Reliability Engineer III,945
+peloton,Site Reliability Engineer,1216
+peloton,"Sr. Manager, Incident Management and Site Reliability Engineering",1179
+oura,"Core Platform Engineer, Data and Algo (All Levels)",1024
+oura,Senior IT Platform Engineer,1218
+oura,"Senior Manager, IT Platform Engineering - FIXED TERM ",1416
+oura,Senior Platform Engineer (DevOps / MLOps) ,1107
+block,Senior Site Reliability Engineer,1162
+fastly,Senior Infrastructure Engineer — Certification Authority,1296
+fastly,Senior SRE - Networks,1165
+singlestore,Site Reliability Engineer,493
+zscaler,Principal Site Reliability Engineer (Linux/Networking/Automation),1013
+zscaler,Site Reliability Engineer Federal- SkillBridge Intern,1037
+zscaler,Site Reliability Engineer-SkillBridge Intern,1052
+zscaler,"Sr. Staff Site Reliability Engineer-Federal, Security Clearance",1146
+zscaler,Staff Site Reliability Engineer,1108
+zscaler,Staff Site Reliability Engineer (Production Engineer),1238
+jetbrains,Cloud Infrastructure Engineer (Kineto),495
+youcom,Senior Site Reliability Engineer,835
+cresta,Infrastructure Engineer/SRE ,590
+cresta,Senior Infrastructure Engineer/SRE ,693
+remotecom,Senior Site Reliability Engineer,1335
+remotecom,Senior Site Reliability Engineer (Remote Build),1314
+gemini,Senior Enterprise Infrastructure Engineer,1084
+nuro,"Reliability Engineer, Intern",834
+nuro,Software Reliability Engineer,697
+nuro,Software Reliability Engineer (Temporary FTE),662
+mistral,"Applied AI Engineer,  Senior/Staff Devops/SRE",649
+mistral,"Applied AI Engineer, ML Infrastructure Engineer / Devops - EMEA",614
+mistral,"Applied AI Engineer, Site Reliability Engineer - EMEA",818
+mistral,Mistral Cloud - Site Reliability Engineer,842
+mistral,Research Platform Engineer,731
+mistral,"Senior/Staff Applied AI Engineer, Devops/SRE",649
+mistral,Site Reliability Engineer,822
+mistral,Site Reliability Engineer - NYC,808
+levelai,"Senior Site Reliability Engineer (Noida, BLR, India)",493
+gohighlevel,Lead Site Reliability Engineer,524
+gohighlevel,SRE 2 - Infrastructure Team,737
+gohighlevel,Staff Engineer - Platform Engineering,760
+thinkahead,AI Platform Engineer,553
+thinkahead,"Principal Technical Consultant, Platform Engineering",853
+thinkahead,Senior Technical Consultant - Platform Engineering,569
+thinkahead,"Senior Technical Consultant, Platform Engineering - Azure",338
+jobgether,AI DevOps & Reliability Engineer,500
+jobgether,"Engineering Leader, Platform Engineering",462
+jobgether,Lead Data Platform Engineer (German Speaker),491
+jobgether,M365 Platform & Power Platform Engineer,513
+jobgether,ML Infrastructure Engineer,450
+jobgether,Platform Engineer (Edge / Docker / IIoT),464
+jobgether,Platform Reliability Engineer,461
+jobgether,"Senior Client Platform Engineer, Windows",415
+jobgether,Senior Cloud Infrastructure Engineer,489
+jobgether,Senior Data and AI Platform Engineer,462
+jobgether,Senior Infrastructure Engineer,474
+jobgether,Senior Infrastructure Engineer (Backend/Data Performance),486
+jobgether,Senior Linux Infrastructure Engineer (Bare metal & storage),463
+jobgether,"Senior Site Reliability Engineer, Robotics & Cloud Infrastructure",540
+jobgether,Senior SRE / Cloud Engineer,462
+jobgether,Site Reliability Engineer,422
+jobgether,Sr. Platform Engineer (AKS/EKS),390
+jobgether,Staff Cloud Platform Engineer,471
+jobgether,Staff Infrastructure Engineer — Observability,440
+jobgether,Staff Site Reliability Engineer,484
+jobgether,VMware Infrastructure Engineer,429
+dnb,Senior Site Reliability Engineer (R-19383),365
+palantir,Edge Infrastructure Engineer,1625
+palantir,Forward Deployed Infrastructure Engineer - UK Government,768
+palantir,Forward Deployed Infrastructure Engineer - US Government,1082
+palantir,Forward Deployed Reliability Engineer,780
+palantir,Product Reliability Engineer - Defense,1162
+palantir,Site Reliability Engineer - US Government,1085
+palantir,Site Reliability Operations Analyst,703
+palantir,Site Reliability Operations Analyst - Commercial,1006
+palantir,Site Reliability Operations Analyst - UK Government,691
+palantir,Site Reliability Operations Analyst - US Government,1016
+swordhealth,Senior Data Platform Engineer,1151
+spotify,Data Infrastructure Engineer – Platform,597
+headway,Staff Data Infrastructure Engineer,999
+supabase,Customer Reliability Engineer,950
+supabase,Site Reliability Engineer,829
+compa,Staff Multi-Cloud Platform Engineer,472
+openai,"Platform Engineer, Forward Deployed Engineering (FDE) -SF",944
+openai,Data Center Infrastructure Engineering Program Manager (Network and Whitespace),1286
+openai,"Platform Engineer, Forward Deployed Engineering (FDE) - NYC",944
+openai,Security Reliability Engineer,1105
+openai,Advanced Packaging Reliability Engineer,1020
+openai,"Senior Staff Software Engineer, Identity Infrastructure Engineering",835
+openai,Staff Security Reliability Engineer,866
+openai,"Site Reliability Engineer, Frontier Systems Infrastructure",805
+openai,"Platform Engineering Manager, Forward Deployed Engineering (FDE)",1003
+vanta,Salesforce Platform Engineer,1035
+cognition,Site Reliability Engineer,748
+cursor,Data Platform Engineer,448
+ashby,"Staff Platform Engineer, EU",2909
+ashby,"Staff Platform Engineer, UK",2909
+baseten,"Manager, Cloud Platform & Site Reliability",909
+baseten,Cloud Platform Engineer,567
+baseten,SRE,619
+modal,Member of Technical Staff - Platform Engineering,364
+decagon,"Senior Software Engineer, Platform Engineering",748
+decagon,"Platform Engineer, Security",687
+decagon,"Senior Platform Engineer, Security",873
+sierra,Forward Deployed Infrastructure Engineer ,1060
+sierra,"Software Engineer, Site Reliability (SRE)",959
+writer,Infrastructure engineer,1260
+writer,Infrastructure engineer (UK),1150

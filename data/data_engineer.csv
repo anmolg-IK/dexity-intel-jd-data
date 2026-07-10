@@ -1,0 +1,176 @@
+"# Dexity Intel — real job descriptions backing this role's article. Source: public ATS boards (Greenhouse/Lever/Ashby) official JSON APIs. Snapshot: July 2026, rolling scan. Each row is a real posting — verify by searching the title at the company."
+
+company,job_title,word_count
+anthropic,Data Engineer,1018
+anthropic,"Data Engineering Manager, Product",1136
+anthropic,"Engineering Manager, Research Data Platform",1307
+anthropic,"[P] Data Engineer, Safeguards",1084
+anthropic,"Product Management, Human Data Platform",1121
+anthropic,"Research Engineer, Economic Research Data Platform",1248
+figma,Data Engineer,995
+figma,Data Platform Engineer,1066
+scaleai,"Staff Software Engineer, Data Platform",1023
+databricks,Specialist Solutions Architect - Data Engineering & Warehousing,904
+databricks,"Sr. Product Manager, Data Engineering",720
+databricks,Sr. Specialist Solutions Architect - Data Engineering & Warehousing,898
+databricks,Staff Software Engineer - Data Platform,662
+databricks,Staff Software Engineer (Data Platform),833
+discord,"Engineering Manager, Data Platform",688
+discord,"Senior Data Engineer, Analytics",733
+discord,"Software Engineer, Data Platform",635
+discord,"Staff Data Engineer, Ads",986
+discord,"Staff Data Engineer, Analytics",691
+discord,"Staff Software Engineer, Data Platform",645
+brex,Data Engineer,814
+brex,"Senior Software Engineer, Product Data Platform",681
+cloudflare,Data Engineer Intern (Fall 2026),1096
+cloudflare,Distributed Systems Engineer - Data Platform - Analytics and Alerts,1776
+cloudflare,"Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)",1611
+cloudflare,Distributed Systems Engineer - Data Platform - Logs and Audit Logs,1862
+cloudflare,Senior Data Engineer,1299
+cloudflare,"Senior Systems Engineer, Cloudflare Data Platform",1156
+asana,Data Engineer,706
+asana,Senior Data Engineer,660
+coinbase,Analytics Engineer,682
+coinbase,"Analytics Engineer, GFCO Analytics",690
+coinbase,Senior Analytics Engineer (Platform - Financial Analytics),712
+coinbase,Senior Software Engineer - Data Platform ,701
+coinbase,"Senior Staff Software Engineer, Data Platform",729
+robinhood,"Senior Staff Software Engineer, Data Platform",945
+instacart,"Staff Software Engineer, Ads Data Platform",648
+samsara,Senior Data Engineer,1579
+samsara,Senior Data Engineer I,1325
+samsara,Senior Software Engineer - Data Platform,1646
+elastic,Senior AI Data Engineer,1202
+mongodb,Staff Data Engineer,569
+twilio,"Staff, Analytics Engineer, GTM Data Science & Analytics",994
+twilio,Staff Software Engineer (L4) Data Platform,1167
+dropbox,Data Engineer,419
+dropbox,Staff Data Engineer,1176
+dropbox,"Staff Data Engineer, Analytics Data Engineering",650
+checkr,"Senior Engineering Manager, Data Engineering",777
+affirm,Analytics Engineer II,835
+affirm,"Senior Software Engineer, Backend (Merchant Data Platform EU)",983
+affirm,"Staff Analytics Engineer, Subledger Platform",1020
+chime,"Engineering Manager, Data Platform",1411
+chime,"Senior Software Engineer, Data Engineering",1089
+sofi,Staff Risk AI & Data Engineer,1030
+faire,Data Engineer - Analytics Platform,954
+faire,Senior Analytics Engineer - GTM,1098
+faire,Senior Analytics Engineer - Marketplace,973
+faire,Senior Staff Data Engineer - Platform Data and Analytics,1120
+verkada,Senior Data Engineer,980
+verkada,"Senior Software Engineer, Data Platform",777
+verkada,Staff Data Engineer,1036
+securityscorecard,Senior Data Engineer,936
+airbnb,Senior Staff Data Engineer - Data Stewardship,745
+airbnb,"Senior Staff Data Engineer, Marketplaces DNA",826
+lyft,Data Engineer,409
+lyft,"Data Engineer, Pricing",811
+lyft,"Engineering Manager – Data Platform, Lakehouse Foundation",1158
+reddit,"Staff Data Engineer, Corporate Engineering ",1263
+stripe,"Software Engineer, Product Security Data Platforms",652
+stripe,"Staff Engineer, Data Engineering Solutions",754
+stripe,"Staff Software Engineer, Data Engineering Solutions",721
+roblox,Finance Analytics Engineer,875
+roblox,"Principal Software Engineer, Data Engineering",683
+roblox,"Software Engineer, Data Engineering",672
+okta,Principal Data Platform Engineer (Bengaluru),887
+okta,Senior Analytics Engineer,1500
+okta,Senior Data Engineer,852
+okta,Senior Data Platform Engineer (Bengaluru),792
+okta,"Senior Product Manager, Data Platform",766
+okta,Staff Data Engineer (Auth0),1029
+okta,"Staff Software Engineer, Data Platform (FedRamp)",972
+nextdoor,Senior Analytics Engineering Manager,900
+nextdoor,Senior/Staff Analytics Engineer - Monetization,925
+toast,"Director, Customer Success Data Engineering",1331
+postman,Data Engineer,749
+clickhouse,"Senior Analytics Engineer, Product",925
+clickhouse,"Senior Data Engineer - Dbt, CI/CD",928
+roku,"Data Engineer, Ads Auction Platform",1048
+roku,Senior Data Engineer,1322
+roku,"Senior Data Engineer, Python, Spark",1028
+roku,"Senior Software Engineer, Data Engineering",1202
+roku,Senior Software Engineer - Data Platform,1017
+oura,Senior Data Engineer,955
+oura,Senior Data Engineer – Hardware & Supply Chain,1040
+block,"Senior Data Engineer, Risk",1089
+carvana,"Senior Data Engineer, Predictive Modeling",1119
+launchdarkly,"Senior Backend Engineer, Data Platform",987
+singlestore,Staff Product Manager | Cloud Data Platform,618
+zscaler,Principal GenAI Data Engineer ,1131
+zscaler,"Senior Manager, Enterprise Data Platform",1487
+lithic,"Senior Software Engineer, Data Platform",729
+nuro,"Senior/Staff Software Engineer, Data Platform",667
+nuro,"Software Engineer, Data Platform",639
+gohighlevel,Lead Data Engineer,742
+gohighlevel,Staff Analytics Engineer – Customer Data Platform,858
+jobgether,AI Data Engineer Mid/Senior,453
+jobgether,Analytics Engineer,509
+jobgether,Analytics Engineer Tech Lead,530
+jobgether,"Analytics Engineer, Data",452
+jobgether,"Associate Principal Engineer, Data Engineer (Enterprise Data Architecture- Banking domain)",513
+jobgether,Clinical Data Engineer Pharma/CRO,533
+jobgether,Data Engineer,471
+jobgether,Data Engineer - GTM & Analytics,490
+jobgether,Data Engineer (Databricks),436
+jobgether,Data Engineer (Salesforce & Jira Integration),472
+jobgether,Data Engineer Sr,601
+jobgether,"Data Engineer, BI & Reporting",465
+jobgether,"Director of Data Engineering, Healthcare",466
+jobgether,Lead Data Engineer,465
+jobgether,Lead Data Platform Engineer (German Speaker),491
+jobgether,"Manager, Analytics Engineering",543
+jobgether,"Manager, Data Engineering",635
+jobgether,Principal Architect & Data Engineer,533
+jobgether,Senior AI Data Engineer,519
+jobgether,Senior Analytics Engineer,442
+jobgether,Senior Analytics Engineer | Partners,557
+jobgether,"Senior Analytics Engineer, Product",424
+jobgether,Senior AZURE Data Engineer/ Analyst,457
+jobgether,Senior Data Engineer,526
+jobgether,Senior Data Engineer - Databricks,475
+jobgether,Senior Data Engineer (AWS),396
+jobgether,Senior Data Engineer (FedRAMP),722
+jobgether,Senior Data Engineer (Microsoft Fabric),461
+jobgether,Senior GenAI Data Engineer (Databricks),440
+jobgether,Senior Marketing Analytics Engineer,517
+jobgether,Senior Power BI Developer & Analytics Engineer,386
+jobgether,"Senior Project Manager, Streaming Intelligence & Data Platform",458
+jobgether,Software/Data Engineer,498
+jobgether,Sr. Data Engineer,575
+jobgether,Sr. Data Engineer - Data Analytics,426
+jobgether,"Staff Data Engineer, Corporate Engineering",481
+dnb,Principal Data Engineer (R-19440),602
+dnb,Senior Big Data Engineer (R-19335),400
+dnb,"Senior Data Engineer, Marketing Analytics (R-19206)",855
+veeva,Analytics Engineer - OpenData EMEA (Remote),701
+swordhealth,Senior Data Engineer,1045
+swordhealth,Senior Data Platform Engineer,1151
+spotify,Analytics Engineer II,556
+spotify,Product Manager - Data Platform,571
+headway,Staff Data Engineer,897
+headway,Senior Data Engineer,897
+headway,"Senior Manager, Data Engineering",885
+supabase,Senior Data Engineer,955
+profound,Data Engineer,555
+profound,"Software Engineer, Data Platform",640
+openai,"Analytics Engineer, Safety Systems",918
+openai,"Senior Data Engineer, Core Experimentation",825
+openai,"Data Engineer, People Innovation Labs",844
+openai,IT Controls Data Engineer,968
+openai,"Analytics Engineer, SMB",769
+openai,"Data Engineer, Scaling Analytics",938
+openai,"Technical Lead Manager, Data Engineering, Trust & Safety",962
+openai,Data Engineer,750
+ramp,"Software Engineer, Data Platform ",652
+vanta,Staff Data Engineer,802
+cognition,Data Engineer,363
+persona,"Software Engineer, Data Platform",625
+persona,"Senior Software Engineer, Data Platform",693
+notion,"Data Engineer, People Analytics ",1068
+cursor,Data Platform Engineer,448
+baseten,Data Engineer,482
+sierra,"Product Manager, Agent Data Platform",990
+sierra,"Software Engineer, Agent Data Platform",1138

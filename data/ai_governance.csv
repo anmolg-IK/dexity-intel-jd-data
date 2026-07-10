@@ -1,0 +1,51 @@
+"# Dexity Intel — real job descriptions backing this role's article. Source: public ATS boards (Greenhouse/Lever/Ashby) official JSON APIs. Snapshot: July 2026, rolling scan. Each row is a real posting — verify by searching the title at the company."
+
+company,job_title,word_count
+anthropic,AI Compliance Officer,1201
+anthropic,"Engineering Manager, GRC Platform",1511
+anthropic,"Staff+ Software Engineer, GRC Platform",1238
+databricks,Senior Engineering Manager - Trust and Safety,701
+databricks, Staff Data Scientist - Trust and Safety,943
+brex,Senior GRC Lead,1009
+gitlab,"Staff Backend Engineer, SSCS: AI Governance",1203
+instacart,"Trust & Safety Specialist, Law Enforcement Response",828
+affirm,"Model Risk Management Lead, Machine Learning",735
+affirm,"Senior Software Engineer , Frontend (Trust & Safety)",812
+chime,"Product Manager, Trust & Safety",1462
+chime,"Senior Data Scientist, Trust & Safety",1263
+verkada,GRC Engineer ,984
+mercury,Senior Model Risk Manager - AI/ML,997
+vercel,GRC Analyst,738
+vercel,"Senior Software Engineer, Trust & Safety",620
+airbnb,"Senior Platform Manager, Trust and Safety",850
+stripe,"IT Governance, Risk & Compliance (GRC) Specialist, Luxembourg",597
+stripe,"Program Manager, Engineering - Technology GRC",909
+roblox,"Finance Business Partner, Trust & Safety (6319)",723
+pinterest,"Product Manager II, Trust & Safety Tools",974
+pinterest,"Sr. Data Scientist, Trust and Safety",965
+pinterest,"Sr. Machine Learning Engineer, Responsible AI– Applied Research Science",1189
+temporaltechnologies,"Senior Security Engineer, GRC",1161
+block,"Senior Data Scientist, AI & Model Risk ",1424
+block,"Senior Machine Learning Engineer, Model Risk Management",1269
+observeai,GRC Leader ,1023
+jobgether,Director of Engineering — Trust & Safety,479
+jobgether,Senior Privacy Engineer,636
+jobgether,Trust & Safety Specialist I,512
+ro,Sr. GRC Engineer,887
+headway," Senior Governance, Risk, Compliance (GRC) Analyst",936
+profound,Security GRC Specialist,668
+openai,"Trust & Safety Operations Analyst, Ads",918
+openai,"GRC Program Manager, US Government Compliance",850
+openai,"Counsel, AI Policy",660
+openai,"GRC Program Manager, Product and Customer Trust",1019
+openai,"Technical Lead Manager, Data Engineering, Trust & Safety",962
+vanta,"GRC Pre-Sales Consultant / Solutions Engineer – French Market, EMEA",1047
+vanta,"Senior Fullstack Software Engineer, GRC",813
+vanta,"GRC Pre-Sales Consultant / Solutions Engineer – DACH market, EMEA",811
+vanta,Senior AI GRC Engineer,918
+vanta,Product GRC SME,1411
+vanta,"Senior Manager, GRC Subject Matter Experts, Product",1542
+vanta,"Senior II Fullstack Software Engineer, GRC",813
+cognition,AI Policy Lead,657
+modal,Security GRC Specialist,537
+sierra,Security GRC Manager: Customer Trust Enablement,1678

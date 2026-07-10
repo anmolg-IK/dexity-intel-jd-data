@@ -1,0 +1,454 @@
+"# Dexity Intel — real job descriptions backing this role's article. Source: public ATS boards (Greenhouse/Lever/Ashby) official JSON APIs. Snapshot: July 2026, rolling scan. Each row is a real posting — verify by searching the title at the company."
+
+company,job_title,word_count
+scaleai,"AI Deployment Strategist, Enterprise",1091
+scaleai,"AI Deployment Strategist, Healthcare & Life Sciences",1047
+scaleai,"Deployment Engineering Manager, Enterprise",949
+scaleai,Deployment Strategist ,1494
+scaleai,"Director, Forward Deployed Engineering",1100
+scaleai,"Director of Product Management, Forward Deployed & Strategy",493
+scaleai,"Forward Deployed Engineer, GenAI ",1118
+scaleai,"Forward Deployed Product Manager, Enterprise",1146
+scaleai,"Forward Deployed Software Engineer, Public Sector",1134
+scaleai,Machine Learning Solutions Engineer – Robotics ,1093
+scaleai,"Principal Solutions Engineer, Enterprise",955
+scaleai,"Senior Full-Stack Software Engineer, (Forward Deployed), GPS",710
+scaleai,Solutions Engineer (Clearance Required),823
+scaleai,"Solutions Engineer, Enterprise",908
+scaleai,Solutions Engineer – Robotics & Autonomous Driving,1094
+scaleai,"Sr Staff ML Forward Deployed Engineer, Enterprise GenAI",538
+scaleai,"Staff Full-Stack Software Engineer, (Forward Deployed), GPS",778
+scaleai,"Staff FullStack Software Engineer, (Forward Deployed), GPS",909
+arizeai,"Forward Deployed AI Engineer, East",774
+arizeai,"Forward Deployed AI Engineer, EMEA",748
+arizeai,"Forward Deployed AI Engineer, West",775
+arizeai,"Forward Deployed Engineer, APJ",693
+databricks,AI Engineer - FDE (Forward Deployed Engineer),583
+databricks,Deployment Strategist,666
+databricks,"Director, AI Forward Deployed Engineering (FDE)",799
+databricks,"Field Technical Program Manager, Forward Deployed Engineering - LATAM",744
+databricks,Forward Deployed Engineer,769
+databricks,Forward Deployed Engineer - Emerging Enterprise & DNB,785
+databricks,Forward Deployed Engineer - FDE (Fullstack),769
+databricks,Forward Deployed Engineer - FDE (Fullstack) - Digital Native Business ,898
+databricks,"Head of AI Forward Deployed Engineering (FDE), Public Sector",857
+databricks,"Manager, Forward Deployed Engineering",743
+databricks,"Manager, Forward Deployed Engineering - CMEG",892
+databricks,"Manager, Forward Deployed Engineering - Manufacturing",888
+databricks,Pre-sales Senior Technical Solutions Engineer (Data and AI),710
+databricks,Pre-sales Senior Technical Solutions Engineer (Data and AI) x4,719
+databricks,Senior Forward Deployed Engineer,770
+databricks,Senior Forward Deployed Engineer - Full stack,770
+databricks,"Senior Forward Deployed Engineer, Full Stack",781
+databricks,"Senior Manager, Forward Deployed Engineering (Full Stack) x 2 New roles",686
+databricks,Senior ML & AI Technical Solutions Engineer ,818
+databricks,Senior Solutions Engineer,601
+databricks,Senior Solutions Engineer - Qatar & S.Africa Fly-in,779
+databricks,Senior Specialist Solutions Engineer (AI/ML),700
+databricks,Senior Technical Solutions Engineer (Platform),500
+databricks,Sr. AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector,761
+databricks,"Sr. Engagement Manager, Forward Deployed Engineering",610
+databricks,"Sr. Engagement Manager, Forward Deployed Engineering - LATAM",461
+databricks,"Sr. Field Technical Program Manager, Forward Deployed Engineering",875
+databricks,"Sr. Field Technical Program Manager, Forward Deployed Engineering - Canada",746
+databricks,"Sr. Field Technical Program Manager, Forward Deployed Engineering - Public Sector",885
+databricks,Sr Forward Deployed Engineer,769
+databricks,Sr. Forward Deployed Engineer,571
+databricks,"Sr. Forward Deployed Engineer - Communications, Media, Entertainment & Games",926
+databricks,"Sr. Forward Deployed Engineer- Communications, Media, Entertainment & Games",926
+databricks,"Sr. Forward Deployed Engineer-Communications, Media, Entertainment & Games",926
+databricks,Sr. Forward Deployed Engineer (FDE) - Healthcare & Life Sciences,943
+databricks,Sr. Forward Deployed Engineer (FDE)- Healthcare & Life Sciences,943
+databricks,Sr. Forward Deployed Engineer (FDE) - Manufacturing,923
+databricks,Sr. Forward Deployed Engineer (FDE)- Manufacturing,923
+databricks,Sr. Forward Deployed Engineer (FDE) - Public Sector,969
+databricks,Sr. Forward Deployed Engineer(FDE) - Public Sector,969
+databricks,Sr. Forward Deployed Engineer - Financial Services,922
+databricks,Sr. Forward Deployed Engineer - Public Sector,966
+databricks,"Sr. Manager, AI Forward Deployed Engineering (AI-FDE) – EMEA",713
+databricks,Sr. Solutions Engineer,813
+databricks,Sr. Solutions Engineer - AI Natives Business,719
+databricks,Sr. Solutions Engineer - MFG,682
+databricks,Sr. Solutions Engineer - Public Sector (Defense Industrial Base),739
+databricks,Sr. Solutions Engineer - Public Sector (DoW - 4th Estate),738
+databricks,Sr. Solutions Engineer - Public Sector (Federal Civilian),743
+databricks,"Sr. Solutions Engineer, Retail - CPG",565
+databricks,Sr Technical Solutions Engineering,995
+databricks,"Sr. Technical Solutions Engineer, Platform",511
+databricks,Staff Forward Deployment Engineer,572
+brex,"Software Engineer, Forward Deployed Agent Builder",629
+gitlab,Forward Deployed Engineer - Germany,1169
+gitlab,Forward Deployed Engineer - META,1169
+gitlab,Forward Deployed Engineer - UK,1171
+cloudflare,Field Solutions Engineer ,1661
+cloudflare,Field Solutions Engineer Brazil (US based),1680
+cloudflare,Forward Deployed Engineer,1398
+cloudflare,Forward Deployed Engineer (FDE),1512
+cloudflare,"Forward Deployed Engineer, Professional Services",1384
+cloudflare,"Principal Partner Solutions Engineer, SAARC (Based in Bangalore)",1517
+cloudflare,Senior Field Solutions Engineer ,1665
+cloudflare,Senior Forward Deployed Engineer,1545
+cloudflare,"Senior Manager, Solutions Engineering",1478
+cloudflare,"Senior Manager, Solutions Engineering Pre-Sales, Northern Europe",1504
+cloudflare,Senior Solutions Engineer - Arizona,1507
+cloudflare,Senior Solutions Engineer - Brazil (US based),1395
+cloudflare,Senior Solutions Engineer - Calgary,1204
+cloudflare,Senior Solutions Engineer - Digital Native Enterprise - West,1775
+cloudflare,"Senior Solutions Engineer, Enterprise Accounts - Charlotte or Raleigh, NC",1358
+cloudflare,"Senior Solutions Engineer, Enterprise Accounts - Miami",1359
+cloudflare,"Senior Solutions Engineer, Enterprise Accounts - NYC",1508
+cloudflare,"Senior Solutions Engineering Manager, Majors - West",1260
+cloudflare,"Senior Solutions Engineering Manager, Named - Central",1612
+cloudflare,"Senior Solutions Engineering Manager, Named - North California",1617
+cloudflare,Senior Solutions Engineer LATAM-MCR  (Mexico City),1666
+cloudflare,"Senior Solutions Engineer, Majors",1477
+cloudflare,"Senior Solutions Engineer, Majors - NYC",1413
+cloudflare,"Senior Solutions Engineer, Majors, Philadelphia or Pittsburgh ",1493
+cloudflare,"Senior Solutions Engineer, Majors, Raleigh, NC",1203
+cloudflare,"Senior Solutions Engineer, Majors, San Francisco",1489
+cloudflare,Senior Solutions Engineer - Mid-Market Tampa,1383
+cloudflare,"Senior Solutions Engineer, Named Accounts - Cincinnati, OH",1484
+cloudflare,Senior Solutions Engineer - New England,1507
+cloudflare,Senior Strategic Solutions Engineer,1238
+cloudflare,"Senior Strategic Solutions Engineer, Delhi NCR",1237
+cloudflare,Solutions Engineer,1298
+cloudflare,"Solutions Engineer, Benelux",1560
+cloudflare,"Solutions Engineer, Central & Eastern Europe - Hebrew Speaking",1784
+cloudflare,"Solutions Engineering Manager, Commercial -  West",1278
+cloudflare,"Solutions Engineer Manager, Associate Programs",1169
+cloudflare,"Solutions Engineer, Nordics",1269
+asana,"Enterprise Solutions Engineer, Service Management",825
+asana,Forward Deployed Engineer,857
+asana,"SMB Solutions Engineer, Client Management",943
+asana,Solutions Engineer,943
+asana,"Solutions Engineer, Command",1149
+instacart,Forward Deployed Engineer,803
+instacart,"Senior Software Engineer II, Ads Data Solutions Engineering",1029
+datadog,Datadog for Startups - Forward Deployed Engineering Lead,1161
+mongodb,"Senior Software Engineer, Forward Deployed AI Engineer",1041
+twilio,Forward Deployed Engineer,1345
+affirm,AI Solutions Engineer,1102
+verkada,Associate Solutions Engineering Program Manager,958
+verkada,"Enterprise Solutions Engineer, Alberta",861
+verkada,"Enterprise Solutions Engineer, Central Corp",890
+verkada,"Enterprise Solutions Engineering Manager, Canada",788
+verkada,"Enterprise Solutions Engineering Manager, Central SLED",809
+verkada,"Enterprise Solutions Engineer, Ohio/Indiana, SLED",887
+verkada,"Enterprise Solutions Engineer, West Coast",892
+verkada,Global Solutions Engineer,1010
+verkada,Solutions Engineer,851
+verkada,"Solutions Engineer, ASEAN",949
+verkada,Solutions Engineer - ATL,849
+verkada,"Solutions Engineering Director, Associate Program",952
+verkada,"Solutions Engineering Manager, EMEA ",638
+verkada,"Solutions Engineering Manager, Select & Territory",823
+webflow,Lead Solutions Engineer - West,1258
+webflow,"Senior Manager, Solutions Engineering - EMEA",1145
+webflow,Senior Solutions Engineer - West,1235
+hivewatch,Physical Security Systems Engineer (Forward Deployed),692
+airbnb,"Senior Business Solutions Engineer, BizTech",688
+stripe,"Backend Engineer, Forward Deployed Engineering",970
+stripe,"Engineering Manager, Forward Deployed (Privy)",515
+stripe,"Forward Deployed AI Accelerator, Marketing",873
+stripe,"Forward Deployed Engineer, Privy",564
+stripe,"Forward Deployed Integration Engineer, Professional Services",626
+stripe,"Solutions Engineer, Privy",358
+stripe,Technical Solutions Engineer,823
+okta,Principal Forward Deployed Engineer,1001
+okta,Principal Forward Deployed Engineer - Okta for AI Agents,1049
+okta,Senior Forward Deployed Engineer - Okta for AI Agents,1081
+okta,Senior Solutions Engineer,1048
+okta,"Senior Solutions Engineer, Auth0",853
+okta,Senior Solutions Engineer (North East),1020
+okta,"Senior Solutions Engineer, Okta (Mid Atlantic)",1020
+okta,Senior Solutions Engineer - Strategic,937
+okta,"Senior Solutions Engineer, Strategic (Chicago)",895
+okta,Senior Solutions Engineer- West Coast,916
+okta,Solutions Engineer,944
+okta,"Solutions Engineer, Auth0 - German speaking",771
+okta,"Solutions Engineer, Okta (West Coast)",1073
+okta,Sr Solutions Engineer - Japan,1079
+okta,Strategic Solutions Engineer,916
+pinterest,AI Solutions Engineer,1342
+pinterest,"Sr. Production Engineer, Solutions Engineering",1120
+toast,Senior Solutions Engineer,778
+hightouch,Forward Deployed Creative Strategist,708
+hightouch,Forward Deployed Marketing Data Scientist,983
+hightouch,"Manager, Solutions Engineering",781
+hightouch,"Manager, Solutions Engineering, Mid-Market",781
+hightouch,Partner Solutions Engineer,792
+hightouch,Solutions Engineer - EMEA,574
+hightouch,"Solutions Engineer, Enterprise East (Pre-Sales)",1135
+hightouch,"Solutions Engineer, Enterprise (Pre-Sales) - German speaking ",1035
+hightouch,"Solutions Engineer, Enterprise West (Pre-Sales)",1135
+hightouch,"Solutions Engineer, Mid-Market (Pre-Sales)",980
+hightouch,"Solutions Engineer, Senior Enterprise (Pre-Sales)",1136
+amplitude,Engineering: Senior Customer Forward Deployed Engineer,1241
+amplitude,Senior Solutions Engineer,679
+mixpanel,"Manager, Solutions Engineering ",1218
+mixpanel,Senior Solutions Engineer,1008
+postman,Corporate Solutions Engineer,975
+postman,"Corporate Solutions Engineer, Nordics",948
+postman,"Corporate Solutions Engineer, UK",808
+postman,Enterprise Solutions Engineer,980
+postman,"Enterprise Solutions Engineer, Israel ",949
+postman,"Enterprise Solutions Engineer, Italy",951
+postman,"Enterprise Solutions Engineer, Netherlands ",961
+postman,"Enterprise Solutions Engineer, UK",959
+postman,Senior Forward Deployed Engineer,819
+postman,"Strategic Solutions Engineering, Netherlands/Sweden/Denmark",915
+cockroachlabs,"Value Engineer, Solutions Engineering",1134
+planetscale,Solutions Engineer,762
+cribl,"Partner Solutions Engineer, APAC",745
+cribl,"Partner Solutions Engineer, United Kingdom",650
+cribl,"Solutions Engineering Manager, West (Enterprise)",787
+sumologic,Presales Solutions Engineer - GERMANY,628
+braze,Forward Deployed AI Accelerator,2573
+braze,"Solutions Engineer, Security & Privacy",1496
+block,Senior Solutions Engineer,934
+block,Solutions Engineer,856
+block,Staff Solutions Engineer,931
+fastly,Manager - Customer Solutions Engineering,1091
+fastly,Senior Customer Solutions Engineer,1457
+fastly,"Senior Customer Solutions Engineer, Streaming Media - Mandarin Speaking ",1455
+circleci,Senior Solutions Engineer,798
+launchdarkly,Senior Solutions Engineer,884
+launchdarkly,Staff Solutions Engineer,885
+singlestore,Forward Deployment Engineer,624
+singlestore,Solutions Engineer,481
+jetbrains,Lead Forward Deployed Engineer (AI-Native Software Development ),914
+jetbrains,Principal Forward Deployed Engineer – AI-Native Software Development,790
+cresta,Associate Forward Deployed Product Manager,977
+cresta,Forward Deployed Engineering Intern (AI Agent),650
+cresta,"Forward Deployed Product Manager, AI Agent",851
+cresta,Forward Deployed Product Manager - AI Agent (EMEA),863
+cresta,Senior Forward Deployed Engineer (AI Agent),939
+cresta,Senior Forward Deployed Engineer (AI Agent) - Germany ,794
+cresta,Senior Forward Deployed Engineer (AI Agent) - UK,794
+cresta,"Solutions Engineer, EMEA",903
+cresta,"Strategic Solutions Engineer, East ",929
+cresta,Strategic Solutions Engineering Director,840
+remotecom,Senior Forward Deployed Engineer (Remote Build),1308
+remotecom,Senior Solutions Engineer,1364
+mistral,AI Deployment Strategist - Canada,731
+mistral,AI Deployment Strategist - Korea,521
+mistral,AI Deployment Strategist - Luxembourg,764
+mistral,AI Deployment Strategist - Marseille,814
+mistral,AI Deployment Strategist - MENA,824
+mistral,AI Deployment Strategist - Morocco,731
+mistral,"AI Deployment Strategist - Munich, Germany",766
+mistral,AI Deployment Strategist - Netherlands,765
+mistral,AI Deployment Strategist - Paris,804
+mistral,AI Deployment Strategist - Singapore,555
+mistral,AI Deployment Strategist - Spain,775
+mistral,AI Deployment Strategist - Sweden,722
+mistral,AI Deployment Strategist - UK,793
+mistral,AI Deployment Strategist - USA,769
+mistral,"AI Deployment Strategist, AI4Engineering - EMEA",1029
+mistral,"AI Deployment Strategist, Cybersecurity - EMEA",951
+mistral,"AI Deployment Strategist, MINDEF - Singapore",750
+mistral,"AI Deployment Strategist, Public Sector - Singapore",756
+mistral,"AI Deployment Strategist, Science - EMEA",1177
+mistral,"Applied AI,  Senior/Staff Forward Deployed Machine Learning Engineer - Munich",670
+mistral,"Applied AI,  Senior/Staff Forward Deployed Machine Learning Engineer - Singapore",594
+mistral,"Applied AI, Forward Deployed Machine Learning Engineer - EMEA",560
+mistral,"Applied AI, Forward Deployed Machine Learning Engineer - Montreal",806
+mistral,"Applied AI, Forward Deployed Machine Learning Engineer - Morocco",560
+mistral,"Applied AI, Forward Deployed Machine Learning Engineer - Munich",560
+mistral,"Applied AI, Forward Deployed Machine Learning Engineer - Palo Alto",681
+mistral,"Applied AI, Forward Deployed Machine Learning Engineer- Singapore",652
+mistral,"Applied AI, Forward Deployed Machine Learning Engineer, Critical and Sovereign Institutions, EMEA",785
+mistral,"Applied AI, Technical Lead - Forward Deployed AI Engineer",819
+mistral,"Applied AI, Technical Lead, Forward Deployed AI Engineer - Abu Dhabi",893
+mistral,"Applied AI, Technical Lead, Forward Deployed AI Engineer - EMEA",892
+mistral,"Applied AI, Technical Lead, Forward Deployed AI Engineer - Montreal",896
+mistral,"Applied AI, Technical Lead, Forward Deployed AI Engineer - Munich",892
+mistral,Associate AI Deployment Strategist,711
+mistral,Lead AI Deployment Strategist,778
+mistral,"Pentester, Offensive Forward Deployment Engineer",862
+mistral,Senior AI Deployment Strategist - Melbourne,760
+mistral,Senior AI Deployment Strategist - Paris,852
+verifiable,Enterprise Solutions Engineer,558
+verifiable,Implementation Engineer,750
+thinkahead,Senior Client Solutions Engineer,1019
+thinkahead,Specialist Solutions Engineer - Cloud Security,1073
+thinkahead,Sr. Specialty Solutions Engineer - Observability,760
+jobgether,AI Solutions Engineer,412
+jobgether,Deployment Engineer,492
+jobgether,Deployment Strategist,579
+jobgether,Engineering Manager - Solutions Engineering,425
+jobgether,Enterprise Solutions Engineering Manager,493
+jobgether,Forward Deployed Engineer,517
+jobgether,Head of Forward Deployment Engineering - Tavily,586
+jobgether,"Implementation Engineer, TPRM",590
+jobgether,"Manager, Forward Deployed Engineering",488
+jobgether,Mid-Market Solutions Engineering Manager,435
+jobgether,Postgres Deployment Engineer (Nix),485
+jobgether,Senior Forward Deployed Engineer (FDE),473
+jobgether,Senior Forward Deployed Engineer (Remote Build),478
+jobgether,Senior Solutions Engineer,426
+jobgether,Solutions Engineering Manager,470
+jobgether,Technical Solutions Engineer (Integrations),442
+palantir,Deployment Strategist,901
+palantir,Deployment Strategist - AUS Government,882
+palantir,Deployment Strategist - Intel,1204
+palantir,Deployment Strategist - Japan Commercial,901
+palantir,Deployment Strategist - Japan Forward Deployed,1269
+palantir,Deployment Strategist - Japan Government,870
+palantir,Deployment Strategist - Korea Forward Deployed,1259
+palantir,Deployment Strategist - Spain,851
+palantir,Deployment Strategist - UK Government,849
+palantir,Deployment Strategist - US Government,1216
+palantir,Deployment Strategist - Warp Speed,1198
+palantir,"Deployment Strategist, Build to Apply - US Government",1588
+palantir,"Deployment Strategist, Internship",1949
+palantir,"Deployment Strategist, Internship - US Government",940
+palantir,"Deployment Strategist, New Grad - Intel, US Government",1204
+palantir,Forward Deployed AI Engineer,1006
+palantir,Forward Deployed Enablement Engineer - Customer Success,907
+palantir,Forward Deployed Engineer - Mixed Reality,1303
+palantir,Forward Deployed Infrastructure Engineer - UK Government,768
+palantir,Forward Deployed Infrastructure Engineer - US Government,1082
+palantir,Forward Deployed Reliability Engineer,780
+palantir,Forward Deployed Security Engineer - US Government,1065
+palantir,Forward Deployed Software Engineer,754
+palantir,Forward Deployed Software Engineer  - Edge Autonomous Systems,1068
+palantir,Forward Deployed Software Engineer - AUS Government,979
+palantir,Forward Deployed Software Engineer - Autonomous Systems C2,1056
+palantir,Forward Deployed Software Engineer - Intel,1227
+palantir,Forward Deployed Software Engineer - Japan Forward Deployed,1369
+palantir,Forward Deployed Software Engineer - Japan Government,938
+palantir,Forward Deployed Software Engineer - Korea Forward Deployed,1359
+palantir,Forward Deployed Software Engineer - Norwegian Government,928
+palantir,Forward Deployed Software Engineer - Spain,929
+palantir,Forward Deployed Software Engineer - Tactical Edge,1261
+palantir,Forward Deployed Software Engineer - UK Government,803
+palantir,Forward Deployed Software Engineer - US Government,1231
+palantir,Forward Deployed Software Engineer - US Government - Federal Health and Civilian,1260
+palantir,Forward Deployed Software Engineer - Warp Speed,1226
+palantir,"Forward Deployed Software Engineer, Internship",2046
+palantir,"Forward Deployed Software Engineer, Internship - AUS Government",942
+palantir,"Forward Deployed Software Engineer, Internship - Commercial",1020
+palantir,"Forward Deployed Software Engineer, Internship - Defense Tech",1035
+palantir,"Forward Deployed Software Engineer, Internship - France",1042
+palantir,"Forward Deployed Software Engineer, Internship - Intel",1027
+palantir,"Forward Deployed Software Engineer, Internship - Poland",955
+palantir,"Forward Deployed Software Engineer, Internship - US Government",1003
+palantir,"Forward Deployed Software Engineer, New Grad - Commercial",1245
+palantir,"Forward Deployed Software Engineer, New Grad - Intel, US Government",1161
+palantir,"Forward Deployed Software Engineer, New Grad - US Government",1167
+palantir,"Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",891
+palantir,"Year at Palantir - Forward Deployed Software Engineer, Internship - USG",891
+simular,Forward Deployed Engineer,191
+supabase,Multigres Deployment Engineer,665
+supabase,Postgres Deployment Engineer (Nix),718
+profound,Forward Deployed Engineer,738
+openai,Forward Deployed Software Engineer - SF,736
+openai,AI Deployment Engineer,861
+openai,Forward Deployed Engineer - Munich,723
+openai,"Platform Engineer, Forward Deployed Engineering (FDE) -SF",944
+openai,"Solutions Engineer, Digital Natives",877
+openai,Forward Deployed Software Engineer - Munich,735
+openai,"Manager, AI Deployment Engineering — Enterprise (ProServe, Media, Telco, Private Equity)",1283
+openai,"Manager, AI Deployment Engineering - Codex",931
+openai,AI Deployment Engineer - Startups,899
+openai,"Solutions Engineer, Core Enterprise",849
+openai,"AI Deployment Engineer, Codex | India",922
+openai,"Manager, Forward Deployed Engineering - Munich",758
+openai,Forward Deployed Engineer - Madrid,723
+openai,Solutions Engineer ,863
+openai,Partner AI Deployment Engineer - AWS,960
+openai,Forward Deployed Engineer (FDE) - SF,724
+openai,"Solutions Engineer, Core Digital Native",852
+openai,"Platform Engineer, Forward Deployed Engineering (FDE) - NYC",944
+openai,AI Deployment Engineer - Tokyo,828
+openai,"AI Deployment Engineer, Codex | Korea",944
+openai,"AI Deployment Engineering Manager, Startups",1056
+openai,Forward Deployed Engineer - Singapore,724
+openai,"Manager, AI Deployment Engineering - Digital Natives",822
+openai,Forward Deployed Engineer - Tokyo,767
+openai,Forward Deployed Software Engineer - NYC,735
+openai,Field Security Specialist (Cyber Security Solutions Engineer),1003
+openai,Forward Deployed Software Engineer - London,735
+openai,Partner AI Deployment Engineer,935
+openai,"Solutions Engineer, Digital Natives (Strategics) ",827
+openai,"Solutions Engineer, Pre-Sales - Tokyo",899
+openai,Forward Deployed Engineer - Stockholm,723
+openai,"Manager, Forward Deployed Engineering",763
+openai,"Solutions Engineer, Pre-Sales  ",813
+openai,Forward Deployed Software Engineer - Dublin,735
+openai,"AI Deployment Engineer, Codex | Tokyo",903
+openai,"Manager, Forward Deployed Engineering - London",758
+openai,IT Solutions Engineer,823
+openai,"AI Deployment Engineer, Startups",910
+openai," Solutions Engineer, Financial Services",858
+openai,"Design Verification, Forward Deployed Engineering",1049
+openai,Forward Deployed Software Engineer - Seattle,735
+openai,Forward Deployed Security Engineer,805
+openai,"Solutions Engineer, Large Enterprise",854
+openai,Forward Deployed Software Engineer - Paris,735
+openai,Forward Deployed Engineer - Paris,723
+openai,Forward Deployed Engineer - Sydney,723
+openai,"Solutions Engineering, Ads Solutions ",810
+openai,"Technical Deployment Lead, Forward Deployed Engineering (FDE) - NYC",996
+openai,"Platform Engineering Manager, Forward Deployed Engineering (FDE)",1003
+openai,Forward Deployed Engineer - Dublin,723
+openai,Forward Deployed Engineer - Seoul,724
+openai,"AI Deployment Engineer, Cyber",1046
+openai," AI Deployment Engineer, Large Enterprise",906
+openai,"AI Deployment Engineer, Public Sector - Federal Civilian",888
+openai,"Solutions Engineer, Private Equity",848
+openai,"Technical Deployment Lead, Forward Deployed Engineering (FDE) - SF",997
+openai,AI Deployment Engineer- Codex,903
+openai,Forward Deployed Engineer (FDE) - NYC,723
+openai,Forward Deployed Engineer - London,723
+openai,"Forward Deployed Engineer, Gov",872
+openai,Forward Deployed Engineer (FDE) - Seattle,723
+openai,"Technical Deployment Lead, Forward Deployed Engineering (FDE)- Platform",961
+openai,Forward Deployed Engineer - UAE,794
+openai,"AI Deployment Engineer, Messenger Integrations",962
+ramp,"Software Engineer, AI Forward Deployed",693
+linear,"Solutions Engineer, Europe",677
+vanta,"GRC Pre-Sales Consultant / Solutions Engineer – French Market, EMEA",1047
+vanta,"Solutions Engineer, Upmarket (Pre-Sales) - EMEA (German Speaking)",936
+vanta,"Solutions Engineer (Upmarket, Pre-Sales) - EMEA [French Fluency]",1047
+vanta,"GRC Pre-Sales Consultant / Solutions Engineer – DACH market, EMEA",811
+vanta,"Head of Solutions Engineering, Americas",1194
+vanta,Solutions Engineer - Japan,800
+cognition,Forward Deployed Marketer,593
+persona,Solutions Engineer,743
+notion,"Forward Deployed Engineer, GTM",1059
+notion,"Forward Deployed Engineer, GTM, France",1050
+notion,"Solutions Engineer, Enterprise, France",1194
+notion,"Manager, Solutions Engineering, Mid-Market",943
+notion,"Forward Deployed Engineer, GTM - Japan",1060
+notion,"Solutions Engineer, EMEA",1093
+notion,Partner Solutions Engineer,978
+notion,"Solutions Engineer, Korea",1070
+notion,Solutions Engineer - Enterprise - AMER,968
+notion,"Forward Deployed Engineer, GTM, DACH",1051
+notion,"Solutions Engineer, French",1096
+notion,"Solutions Engineer, Tokyo",1037
+notion,"Solutions Engineer, Commercial",985
+cursor,Forward Deployed Engineer - EMEA,330
+cursor,Forward Deployed Engineer,338
+cursor,"Regional Director, Forward Deployed Engineering",695
+zip,"Software Engineer, Forward Deployed (All Levels)",886
+zip,AI Forward Deployed Engineer,787
+ashby,Solutions Engineer - DACH,1371
+ashby,Enterprise Solutions Engineering Manager,983
+ashby,Mid-Market Solutions Engineering Manager,722
+baseten,Engineering Manager - Forward Deployed Engineering (LLM),814
+baseten,AI Solutions Engineer,684
+baseten,Applied AI Inference - Forward Deployed Engineer,684
+modal,Forward Deployed Engineer - ML,499
+modal,Forward Deployed Engineer - Systems,466
+decagon,Senior Solutions Engineer,426
+decagon,"Strategic Solutions Engineer, East",428
+decagon,"Strategic Solutions Engineer, West",426
+decagon,Enterprise Solutions Engineer,425
+sierra,Forward Deployed Infrastructure Engineer ,1060
+writer,AI deployment engineer (Central),757
+writer,AI deployment engineer (East),757
+writer,AI deployment engineer (West),758
+writer,AI deployment engineer (UK),642

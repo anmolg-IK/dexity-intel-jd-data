@@ -1,0 +1,348 @@
+"# Dexity Intel — real job descriptions backing this role's article. Source: public ATS boards (Greenhouse/Lever/Ashby) official JSON APIs. Snapshot: July 2026, rolling scan. Each row is a real posting — verify by searching the title at the company."
+
+company,job_title,word_count
+anthropic,"Data Engineering Manager, Product",1136
+anthropic,"Engineering Manager, Agent Prompts & Evals",1348
+anthropic,"Engineering Manager, Agent Runtime Platform",965
+anthropic,"Engineering Manager, Cybersecurity Products",1039
+anthropic,"Engineering Manager, Data Architecture",1244
+anthropic,"Engineering Manager, Enterprise",1081
+anthropic,"Engineering Manager, GPU (ML Accelerator)",947
+anthropic,"Engineering Manager, GRC Platform",1511
+anthropic,"Engineering Manager, Inference",947
+anthropic,Engineering Manager - Privacy Infrastructure,1317
+anthropic,"Engineering Manager, Research Data Platform",1307
+anthropic,"Engineering Manager, Research Productivity",1017
+anthropic,"Engineering Manager, Safeguards Review Tooling",1162
+anthropic,"Engineering Manager, UI Platform",1107
+scaleai,"Deployment Engineering Manager, Enterprise",949
+scaleai,"Engineering Manager, Agent Oversight",1180
+scaleai,"Engineering Manager, Global Public Sector",699
+scaleai,"Engineering Manager, Saudi Arabia",958
+scaleai,"Engineering Manager, UAE",993
+scaleai,"Senior Engineering Manager, Defense",933
+scaleai,"Senior Frontier Agent Engineering Manager, Enterprise",1360
+scaleai,"Technical Program Manager, Engineering",992
+databricks,Engineering Manager - Backend,579
+databricks,Engineering Manager - Compute Infra,722
+databricks,Engineering Manager - Core Experiences ,631
+databricks,Engineering Manager - Databricks SQL Control Plane,703
+databricks,Engineering Manager - Data Visualization Platform,831
+databricks,Engineering Manager - Identity and Access Management (IAM),756
+databricks,Engineering Manager - Lakebase Storage,606
+databricks,Engineering Manager - Pipelines Engine,746
+databricks,Engineering Manager - Platform Reliability,606
+databricks,"Engineering Manager, Serverless Compute Platform",855
+databricks,Engineering Manager - Streaming,795
+databricks,Engineering Manager - UI Platform,761
+databricks,"Manager, Engineering - AI/BI",831
+databricks,Senior Engineering Manager - Backend ,577
+databricks,Senior Engineering Manager for Workspace Platform,787
+databricks,Senior Engineering Manager - Trust and Safety,701
+databricks,"Sr. Engineering Manager, AI Runtime",784
+databricks,Sr. Engineering Manager - App Frameworks,825
+databricks,Sr. Engineering Manager - Customer Experience Intelligence (CXI),797
+databricks,Sr. Engineering Manager - Notebook Dataplane,782
+databricks,"Sr. Manager, Engineering",574
+databricks,"Sr. Manager, Engineering  Configuration Platform Team",961
+databricks,"Sr. Manager, Engineering - Search",777
+discord,"Engineering Manager, Data Platform",688
+discord,"Engineering Manager, Notifications",692
+discord,"Engineering Manager, Revenue",781
+discord,"Engineering Manager, Social Commerce",947
+brex,"Engineering Manager, Cloud Infrastructure",746
+brex,"Engineering Manager, GTM Engineering ",798
+brex,"Engineering Manager, Onboarding",756
+brex,"People Business Partner Director, Engineering",884
+brex,"Senior Engineering Manager, Acquisition",791
+gitlab,"Engineering Manager, AI Engineering: Chat",991
+gitlab,"Engineering Manager, Cell Infrastructure",1128
+gitlab,"Engineering Manager, Continuous Delivery",1123
+gitlab,"Engineering Manager, Data Foundations",1583
+gitlab,"Engineering Manager, Geo for Self-Managed Customers",857
+gitlab,"Engineering Manager, Gitlab Delivery: Upgrades",1074
+gitlab,"Engineering Manager, Growth",1476
+gitlab,"Engineering Manager, Observability, Monitoring, and Integrations (Monetization)",1066
+gitlab,"Engineering Manager, SSCS: Supply Chain",1047
+gitlab,"Principal Product Manager, Engineering Intelligence & Insights",1149
+cloudflare,"Engineering Manager, Linux Team",1196
+cloudflare,"Senior Engineering Manager, AI Gateway",1388
+cloudflare,Senior Engineering Manager - Cloudforce One,1417
+cloudflare,"Senior Solutions Engineering Manager, Majors - West",1260
+cloudflare,"Senior Solutions Engineering Manager, Named - Central",1612
+cloudflare,"Senior Solutions Engineering Manager, Named - North California",1617
+cloudflare,"Solutions Engineering Manager, Commercial -  West",1278
+asana,Engineering Manager,830
+asana,"Engineering Manager, Builder Platform",898
+asana,"Engineering Manager, Development Infrastructure",778
+asana,"Engineering Manager, Threat Response",1081
+asana,Head of Engineering Operations,803
+asana,"Senior Engineering Manager, AI Agents",1249
+asana,"Senior Engineering Manager, Consumption Based Billing & Licensing",856
+asana,"Senior Engineering Manager, Payment Platform",1061
+asana,"Senior Engineering Manager, Security",907
+coinbase,Engineering Manager - Customer Experience AI,705
+robinhood,"Engineering Manager, Advisory Platform",897
+robinhood,"Engineering Manager, Concierge ",834
+robinhood,"Engineering Manager, Derivatives",562
+robinhood,"Engineering Manager, Prediction Markets",910
+robinhood,"Engineering Manager, Toronto",755
+robinhood,Senior Engineering Manager,958
+robinhood,"Senior Engineering Manager, AI Research and Development",981
+instacart,"Engineering Manager, Service Platform",773
+instacart,"Engineering Manager, Software, Catalog Enrichment ",918
+instacart,"Senior Engineering Manager, Privacy Security",831
+instacart,"Senior Engineering Manager, Search",864
+samsara,Engineering Manager II,1395
+samsara,Full-Stack Engineering Manager,1372
+datadog,"Director, Engineering - Detection Platform ",836
+datadog,Engineering Manager I - AI Platform - Evaluation & Annotation,783
+datadog,Engineering Manager II - APM DCS Platform Delivery,694
+datadog,"Engineering Manager I, Threat Detection",1128
+mongodb,"Director, Engineering",638
+mongodb,"Engineering Manager, Atlas Cluster Security   ",691
+mongodb,"Engineering Manager, Atlas Clusters Fleet Signal Management",705
+mongodb,"Engineering Manager, Atlas Clusters Modernization",709
+mongodb,"Engineering Manager, Server Networking Security (Rust)",916
+mongodb,"Senior Engineering Manager, Code Generation",1020
+mongodb,"Senior Engineering Manager, Storage Execution (RSS)",1067
+twilio,Senior Engineering Manager (L5),786
+twilio,Senior Manager Software Engineering,776
+gusto,Application Systems Engineering Manager,1066
+checkr,"Engineering Manager, Mortgage",797
+checkr,"Engineering Manager, Verifications",1045
+checkr,"Senior Engineering Manager, Data Engineering",777
+affirm,"Senior Engineering Manager, Machine Learning Platform",793
+affirm,"Senior Manager, Software Engineering (Online Storage)",914
+chime,"Engineering Manager, Data Platform",1411
+chime,"Engineering Manager, Spending, Savings, & Investing",1117
+sofi,"Senior Engineering Manager, Commercial Banking",1148
+sofi,"Senior Engineering Manager, SoFi Money (Mobile)",872
+sofi,"Software Engineering Manager, Digital Identity — Access & Rights",1170
+faire,Senior Engineering Manager - Discovery,1327
+verkada,"Engineering Manager, Agentic Workflows ",862
+verkada,"Engineering Manager, Atlas (Spatial Systems)",993
+verkada,"Engineering Manager, Platform Infrastructure",1017
+verkada,Engineering Manager - Storage Systems,984
+verkada,"Enterprise Solutions Engineering Manager, Canada",788
+verkada,"Enterprise Solutions Engineering Manager, Central SLED",809
+verkada,Senior Engineering Manager - Clients Platform,943
+verkada,Software Engineering Manager - Alarms,848
+verkada,"Software Engineering Manager, Data Protection Platform",796
+verkada,"Software Engineering Manager, Growth",972
+verkada,Software Engineering Manager - Intercom,761
+verkada,Software Engineering Manager - Search,1168
+verkada,"Solutions Engineering Manager, EMEA ",638
+verkada,"Solutions Engineering Manager, Select & Territory",823
+verkada,Technical Support Engineering Manager,860
+mercury,Senior Engineering Manager – Domestic Wires & Real-time Payments,683
+vercel,"Engineering Manager, CDN",536
+securityscorecard,Head of Engineering,1197
+airbnb,"Engineering Manager, Community Support Engineering (Routing and Data Services)",748
+airbnb,"Engineering Manager, Guest & Host",645
+airbnb,"Engineering Manager, Investigations and Incident Response",961
+airbnb,"Engineering Manager, Marketing Technology - Segmentation Platform & Insights Platform",1045
+airbnb,"Engineering Manager, Storage SRE",832
+airbnb,"Engineering Manager, UI Tooling",992
+airbnb,"Engineering Manager, Workflow Orchestration",652
+lyft,"Engineering Manager – Data Platform, Lakehouse Foundation",1158
+lyft,"Engineering Manager, Growth Products",604
+lyft,"Senior Engineering Manager, Mapping",895
+reddit,"Ads Conversion Modeling, Machine Learning Engineering Manager",1069
+reddit,"Engineering Manager, Ads ML Efficiency",993
+reddit,"Engineering Manager, Advanced Signals (SWE)",1000
+reddit,"Engineering Manager, Search Storage",962
+reddit,Machine Learning Engineering Manager - Ads Engagement Modeling ,1031
+reddit,"Senior Engineering Manager, Unified Embeddings Platform ",864
+reddit,"Sr. Engineering Manager, Shopping Ads",940
+stripe,Corporate Network Engineering Manager,558
+stripe,"Engineering Manager, Access Management",418
+stripe,"Engineering Manager, AI Conversation Platform",394
+stripe,"Engineering Manager, APAC & EMEA Cards",476
+stripe,Engineering Manager - Core Performance,449
+stripe,"Engineering Manager, Data Transformation",684
+stripe,"Engineering Manager, Developer Productivity AI",445
+stripe,"Engineering Manager, Forward Deployed (Privy)",515
+stripe,"Engineering Manager, HADR",523
+stripe,"Engineering Manager, Managed Payments",567
+stripe,"Engineering Manager, Operator Tooling",531
+stripe,"Engineering Manager, Payments",532
+stripe,"Engineering Manager, Product (Privy)",546
+stripe,"Engineering Manager, Sales Systems",486
+stripe,"Engineering Manager, Terminal",700
+stripe,"Program Manager, Engineering - Technology GRC",909
+squarespace,Engineering Manager - PASS,799
+roblox,"Director, Engineering — Engineering Acceleration",715
+roblox,Engineering Manager - Account Security,776
+roblox,"Engineering Manager, Application Security",614
+roblox,"Engineering Manager, Creator Analytics",589
+roblox,"Engineering Manager, Home Infrastructure",833
+roblox,"Engineering Manager, Observability Infrastructure",675
+roblox,"Machine Learning Engineering Manager, Critical Harms",849
+roblox,"Senior Engineering Manager, Safety Platform",735
+roblox,"Senior Engineering Manager, Search and Discovery",756
+roblox,Senior Machine Learning Engineering Manager,970
+roblox,"Senior Product Manager, Engineering Acceleration",730
+roblox,"Software Engineering Manager, Engine UI",636
+okta,Engineering Manager,724
+okta,Engineering Manager - Access Essentials - Core Product,936
+okta,"Engineering Manager, Auth0 FGA Developer Platform",811
+okta,"Engineering Manager, Developer Platform",811
+okta,"Engineering Manager, Performance & Resilience (Auth0)",864
+okta,Engineering Manager - Platform Migration Services (Auth0),735
+okta,"Manager, Engineering",677
+okta,"Manager, Engineering - Device Identity and Access",1149
+okta,Senior Engineering Manager,724
+okta,"Senior Engineering Manager, Workflows (FedRamp)",893
+okta,"Senior Manager, Software Engineering- Core (FED) ",880
+okta,Software Engineering Manager - Core & Resilience Engineering,709
+duolingo,Senior AI Engineering Manager ,749
+duolingo,"Senior Engineering Manager, Ads Monetization",889
+duolingo,"Senior Engineering Manager, Growth",764
+pinterest,"Director, Engineering - Online Systems",894
+pinterest,"Engineering Manager, Developer Agents",932
+pinterest,"Engineering Manager I, Innovative Ad Formats",968
+pinterest,"Sr. Engineering Manager, Programmatic Ad Tech, tvScientific",941
+nextdoor,Senior Analytics Engineering Manager,900
+flexport,Engineering Manager,1179
+betterment,Engineering Manager,1291
+betterment,"Engineering Manager, Detect & Respond",1321
+betterment,Sr. Engineering Manager,1189
+betterment,"Sr. Engineering Manager, Application Security",1323
+betterment,"Sr. Engineering Manager, App Platform",1304
+betterment,"Sr. Engineering Manager, Broker Dealer",1263
+betterment,"Sr. Engineering Manager, Developer Experience",1258
+toast,Engineering Manager II - Internationalization ,952
+toast,"Senior Software Engineering Manager, Toast Web Platform",884
+hightouch,"Engineering Manager, Agents",718
+hightouch,"Engineering Manager, Customer Studios",692
+hightouch,"Engineering Manager, Destinations",934
+amplitude,"Engineering Manager, Guides & Surveys",1314
+amplitude,Software Engineering Manager,1446
+mixpanel,"Engineering Manager, AI Infrastructure",1121
+mixpanel,"Engineering Manager, Stateful Distributed Systems",1156
+postman,"Engineering Manager, Fern Docs",745
+postman,"Engineering Manager, Postman AI ",1075
+postman,Head of Engineering (Customer Journey and Monetization),1100
+cockroachlabs,"Manager, Engineering",1215
+cockroachlabs,"Manager, Engineering (Production Orchestration)",1363
+cockroachlabs,"Sr. Engineering Manager, Key Value (KV) ",1091
+clickhouse,Engineering Manager - China,812
+clickhouse,Senior Engineering Manager - Security Engineering,1156
+starburst,Engineering Manager,776
+temporaltechnologies,"Senior Engineering Manager, Compute",1350
+huntress,"Director, Engineering - Identity ",916
+huntress,"Director, Engineering - Platform ",911
+cribl,"Solutions Engineering Manager, West (Enterprise)",787
+sumologic,"Senior Manager, Engineering",739
+newrelic,"Senior Manager, Software Engineering",995
+klaviyo,"Engineering Manager, Customer Agent",1266
+klaviyo,Engineering Manager - Data Automation,1148
+klaviyo,"Head of Engineering, Finance Systems",1668
+braze,"Engineering Manager, Data Streaming",1514
+braze,"Engineering Manager, Email",1348
+iterable,"Manager, Engineering (Nova)",1211
+roku,"Engineering Manager, Ad Serving",990
+roku,"Senior Engineering Manager, Content Platform",982
+roku,"Senior Manager, Software Engineering - Web (Ads Customer Interface)",969
+roku,"Senior Manager, Software Engineering, Wireless",1190
+roku,"Senior Software Engineering Manager, Ads Auction & Marketplace Optimization",1027
+roku,"Senior Software Engineering Manager – AdTech (React, Node.js)",1096
+oura,Mobile Engineering Manager,1118
+oura,Senior Engineering Manager,1167
+carvana,"Manager, Engineering (Customer Experience)",1099
+carvana,"Manager, Engineering (Marketplaces)",903
+fastly,"Senior Manager, Engineering - Platform Security",1309
+launchdarkly,"Engineering Manager, Warehouse Scale",719
+zscaler,Sales Engineering Manager - UK,1045
+zscaler,"Senior Manager, Engineering (API Platform)",1136
+zscaler,"Senior Manager, Software Development Engineering - Control Plane",1061
+zscaler,Senior Manager Software Engineering (Microservices),1091
+lithic,"Engineering Manager, Processing",731
+gemini,"Senior Software Engineering Manager, Credit Card",696
+mistral,Engineering Manager,901
+mistral,"Technical Program Manager, Engineering",762
+gohighlevel,Engineering Manager - Conversations,1117
+gohighlevel,Engineering Manager - Custom Objects Team,674
+jobgether,DevOps Engineering Manager,514
+jobgether,Engineering Manager,371
+jobgether,"Engineering Manager - Public Cloud, Python, Golang",445
+jobgether,Engineering Manager - Solutions Engineering,425
+jobgether,"Engineering Manager, Cell Infrastructure",504
+jobgether,"Engineering Manager, Commercial Systems",471
+jobgether,"Engineering Manager, Continuous Delivery",602
+jobgether,"Engineering Manager, Data Cloud",533
+jobgether,"Engineering Manager, Gitlab Delivery: Upgrades",481
+jobgether,"Engineering Manager, Growth",595
+jobgether,"Engineering Manager, Shared Services",434
+jobgether,"Engineering Manager, SSCS: Supply Chain",528
+jobgether,Enterprise Solutions Engineering Manager,493
+jobgether,EverPro - Engineering Manager,636
+jobgether,Hardware Engineering Manager,568
+jobgether,Head of Engineering,473
+jobgether,Manager Engineering 2,426
+jobgether,Mid-Market Solutions Engineering Manager,435
+jobgether,"Principal Product Manager, Engineering Intelligence & Insights",475
+jobgether,"Salesforce/NetSuite Engineering Manager, Commercial Systems",432
+jobgether,Senior Engineering Manager,444
+jobgether,"Senior Engineering Manager, Database",405
+jobgether,"Senior Manager, Engineering",697
+jobgether,Solutions Engineering Manager,470
+jobgether,"Staff Engineering Manager, Cloud Security",471
+dnb,"Director, Engineering (R-19477)",499
+dnb,"Senior Manager, Engineering (R-19027)",475
+veeva,Engineering Manager - Test Automation,444
+ro,"Engineering Manager, Core Infrastructure",930
+spotify,Engineering Manager - Experimentation,454
+spotify,Engineering Manager - Social Listening,381
+spotify,Engineering Manager – Messaging Platform & Tooling,626
+headway,"Director, Engineering (Patient)",1816
+headway,Engineering Manager (Growth),1734
+headway,Engineering Manager (Provider),1605
+headway,Engineering Manager (Insurance),1127
+supabase,Support Engineering Manager (APAC),1253
+supabase,Engineering Manager,980
+openai,"Engineering Manager, Multimodal (API)",719
+openai,"Engineering Manager, Identity Infrastructure",892
+openai,IC Agentic Engineering Manager - Stargate,774
+openai,"Engineering Manager, Sensitive Deployments ",914
+openai,"AI Deployment Engineering Manager, Startups",1056
+openai,"Engineering Manager, Identity & Access Platform",892
+openai,"Engineering Manager, Distillation & Detection Platform",708
+openai,"Engineering Manager, Cooperative Systems",886
+openai,"Engineering Manager, MLE",832
+openai,"Platform Engineering Manager, Forward Deployed Engineering (FDE)",1003
+openai,"Engineering Manager, Online Data Systems",751
+openai,"Engineering Manager, Premium",701
+openai,"Engineering Manager, Core Services ",709
+vanta,Engineering Manager - Reporting,791
+vanta,"Engineering Manager, AI",801
+vanta,"Engineering Manager, Core Platform",836
+vanta,"Senior Manager, Engineering Recruiting",959
+notion,"Engineering Manager, Mobile AI",922
+notion,"Sales Engineering Manager, Enterprise, EMEA",1300
+notion,"Engineering Manager, Context (Agentic Search)",945
+notion,"Engineering Manager, Search & Context Platform",1184
+cursor,"Technical Support Engineering Manager, Singapore, Australia ",341
+cursor,"Engineering Manager, Evals",361
+cursor,"Engineering Manager, Infrastructure",477
+cursor,"Engineering Manager, Core Services",426
+cursor,"Engineering Manager, Desktop",494
+ashby,"Engineering Manager, EU",2532
+ashby,"Engineering Manager, UK",2532
+ashby,Support Engineering Manager - Americas,1573
+ashby,"Engineering Manager, Canada",2292
+ashby,"Engineering Manager, Americas",2292
+ashby,Enterprise Solutions Engineering Manager,983
+ashby,Mid-Market Solutions Engineering Manager,722
+watershed,"Engineering manager, cloud infrastructure",728
+watershed,"Engineering manager, reporting",581
+baseten,"Engineering Manager, Cloud Platform",720
+baseten,Engineering Manager - Forward Deployed Engineering (LLM),814
+baseten,"Engineering Manager, Internal Platform",691
+baseten,"Engineering Manager, Model Library",577
+baseten,"Engineering Manager, Runtime Fabric",913
+baseten,Engineering Manager - Model Performance,636
+modal,Systems Engineering Manager,354
+decagon,"Engineering Manager, Agents",690
+decagon,"Engineering Manager, Agent Orchestration",817

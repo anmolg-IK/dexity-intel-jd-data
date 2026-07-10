@@ -1,0 +1,657 @@
+"# Dexity Intel — real job descriptions backing this role's article. Source: public ATS boards (Greenhouse/Lever/Ashby) official JSON APIs. Snapshot: July 2026, rolling scan. Each row is a real posting — verify by searching the title at the company."
+
+company,job_title,word_count
+anthropic,"Product Management, Human Data Platform",1121
+anthropic,"Product Manager, API Growth",887
+anthropic,"Product Manager, Claude Code Model Performance ",977
+anthropic,"Product Manager, Compute Platform",1280
+anthropic,"Product Manager, Developer Productivity",1437
+anthropic,"Product Manager, GTM Experiences",817
+anthropic,"Product Manager, Multi-Cloud Growth - Google",1120
+anthropic," Product Manager, Safeguards Rare Harms",1176
+anthropic,"Research Product Manager, Model Behaviors",955
+anthropic,Web Product Manager,1263
+figma,"Director, Product - Enterprise ",1005
+figma,"Product Manager, AI Growth",866
+figma,"Product Manager, AI Platform",1126
+figma,"Product Manager, CMS",962
+figma,"Product Manager, Design Tools",958
+scaleai,"Director of Product Management, Forward Deployed & Strategy",493
+scaleai,"Forward Deployed Product Manager, Enterprise",1146
+scaleai,Product Manager,702
+scaleai,"Product Manager, Enterprise Core Platform",1300
+scaleai,"Product Manager, Gen AI",1362
+scaleai,"Product Manager of AI Applications, Global Public Sector",765
+scaleai,"Senior AI Product Manager, Finance Agents",1085
+scaleai,"Senior AI Product Manager, Healthcare Agents",1065
+scaleai,"Staff Product Manager, Agentic Platform",1070
+scaleai,Staff Technical Product Manager,768
+arizeai,AI Product Manager,787
+databricks,"Sr. Product Manager, Compute Platform",769
+databricks,"Sr. Product Manager, Databricks AI",743
+databricks,"Sr. Product Manager, Databricks Free Edition",643
+databricks,"Sr. Product Manager, Databricks Repos",858
+databricks,"Sr. Product Manager, Data Engineering",720
+databricks,"Sr. Product Manager, Data Governance",768
+databricks,"Sr Product Manager, Employee Experience",1026
+databricks,"Sr. Product Manager, Lakeflow",646
+databricks,Sr. Product Manager - Technical,833
+databricks,Sr Staff Production Engineer- Public Sector,1100
+databricks,Sr Staff Product Operations Manager,1050
+databricks,Sr. Staff Product Security Engineer,768
+databricks,"Staff Product Designer, AI Products ",797
+databricks,Staff Production Engineer- Public Sector,1097
+databricks,Staff Product Manager,490
+databricks,"Staff Product Manager, Agentic AI Applications",1238
+databricks,"Staff Product Manager, AI Platform",973
+databricks,"Staff Product Manager, Security",856
+databricks,"Staff Product Manager, Serverless Workspaces",843
+databricks,Staff Product Manager - Technical,604
+databricks,Staff Product Operations Manager,801
+discord,"Senior Product Manager, Ad Formats",1022
+discord,"Senior Product Manager, Platform Analytics",702
+discord,"Senior Product Manager, Scaled Abuse",661
+discord,"Staff Product Marketing Manager, Consumer",845
+brex,"Director Product Management, Banking + AP",1131
+brex,"Director, Product Marketing",804
+brex,Group Product Manager,851
+brex,"Senior Product Manager, AI",1330
+brex,Staff Product Designer,757
+brex,Staff Product Manager,797
+brex,"Staff Product Manager, AI",1330
+brex,"Staff Product Manager, Growth",823
+gitlab,"Principal Product Manager, AI Custom Models",1145
+gitlab,"Principal Product Manager, Engineering Intelligence & Insights",1149
+gitlab,"Principal Product Manager, Security - GTM",1229
+gitlab,"Senior Manager, Product Management: Agentic Software Delivery",1194
+gitlab,"Senior Product Manager, AI Platform Management",1162
+gitlab,"Staff Product Designer, Knowledge Graph",1036
+cloudflare,"Product Manager, AI Access",1333
+cloudflare,Senior Product Manager - Ad Fraud and Identity Solutions,1381
+cloudflare,Senior Product Manager - Enterprise,1247
+airtable,"Product Manager, Funnel & Activation",750
+asana,Enterprise Product Manager,1177
+asana,Product Manager,976
+asana,"Senior Product Manager, Agent Context",687
+asana,"Senior Product Manager, Payment Platform",683
+asana,"Senior Product Manager, Project & Task Experience",1015
+coinbase,"Group Product Manager, Compliance Automation",710
+coinbase,"Group Product Manager, Core Infrastructure & Reliability",713
+coinbase,"Group Product Manager, Developer Infrastructure",704
+coinbase,"Group Product Manager, Financial Engineering ",702
+coinbase,"Group Product Manager, Payments Core",684
+coinbase,"Senior Product Manager, CX & AI Tooling",740
+coinbase,"Senior Product Manager, Help Center (CX Automation)",642
+coinbase,Staff Product Designer - Advanced Trade,713
+coinbase,Staff Product Designer (Experience & Engagement),696
+coinbase,"Staff Product Manager, CX Automation",724
+robinhood,"Senior Product Manager, Crypto Trading",725
+robinhood,"Senior Product Manager, Government Products",957
+robinhood,"Senior Product Manager, Money Movement",874
+robinhood,"Staff Product Designer, Brokerage",836
+robinhood,"Staff Product Designer, Prediction Markets",867
+robinhood,"Staff Product Manager, Banking",689
+robinhood,"Staff Product Manager, Cortex",922
+robinhood,"Staff Product Manager, International Growth & Expansion",649
+instacart,"Senior Product Manager, AI",913
+instacart,"Senior Product Manager, Fraud & Trust",1242
+instacart,"Senior Product Manager, Growth Marketing Platform",810
+instacart,"Senior Product Manager, In-Store Tasks",764
+instacart,"Senior Product Manager, Retailer Platform",1064
+instacart,"Senior Product Manager, Shopping Experience",885
+instacart,Staff Product Designer - Shopping Experiences,1408
+samsara,"Director, Product Design",1116
+samsara,Principal Product Manager,1178
+samsara,Principal Product Manager - Maintenance,1669
+samsara,Product Manager - Revenue Tools,1202
+samsara," Sales Director, Product Specialists (Smart Trailers)",1259
+samsara,Senior Business Technology Product Manager- Supply Chain Planning,1628
+samsara,Senior/Principal Product Manager - Safety AI,1438
+samsara,Senior Product Manager,1428
+samsara,"Senior Product Manager, Growth",1365
+samsara,"Sr. Product Manager I, In-vehicle Experience",1393
+samsara,Sr. Support Tools Product Manager,1244
+samsara,Staff Product Design Engineer,1444
+samsara,Technical Product Manager,1623
+elastic,"Principal Product Manager, AI agents - Search",1125
+elastic,Principal Product Marketing Manager - Platform,1216
+elastic,Senior Product Manager - Self service cloud,928
+datadog,"Director, Product Management - AI Observability",1126
+datadog,"Director, Product Management - Cloud Security and Shared Capabilities",989
+datadog,"Director, Product Management - Core Platforms",843
+datadog,"Director, Product Management - Infrastructure Monitoring",1075
+datadog,Group Product Manager - Bring Your Own Cloud,1029
+datadog,"Group Product Manager, Cloud Security",936
+datadog,Group Product Manager - Code Security,1025
+datadog,Group Product Manager - Threat Detection and Incident Response (Cloud SIEM),760
+datadog,"Product Manager II, AI & Data Security",708
+datadog,Product Manager II - Application Performance Monitoring,895
+datadog,Product Manager II - Identity Security,897
+datadog,Product Manager II - Model Lab,877
+datadog,Product Manager II - Security Graph Foundations,756
+datadog,Senior Platform Product Manager - AI SDLC Trusted Throughput,846
+datadog,"Senior Product Manager, AAA/Enterprise Growth",1148
+datadog,Senior Product Manager - Agent Integrations,1070
+datadog,Senior Product Manager - Data Agent,888
+datadog,Senior Product Manager - Database AI Optimization,920
+datadog,Senior Product Manager - Data Security,694
+datadog,Senior Product Manager - Network Path,917
+datadog,Senior Product Manager - Search,753
+datadog,Senior Product Manager - Serverless,744
+datadog,"Senior Product Manager, SQL & Sheets Growth",906
+datadog,"Staff Product Designer, APM",1028
+datadog,Staff Product Designer - Metrics,899
+mongodb,"Director of Product Management, AI Builder Experience ",1264
+mongodb,"Product Manager, Internal Financial Data",956
+mongodb,"Senior Data Product Manager, Product Telemetry",1321
+mongodb,Senior Product Manager,1084
+mongodb,"Senior Product Manager, AI Builders Experience",1193
+mongodb,Senior Product Manager - IT Go-to-Market AI,904
+mongodb,Senior Product Manager – IT Go-to-Market (Partner Management),1001
+mongodb,"Senior Product Manager, Security and Threat Management",961
+mongodb,"Senior Staff Product Manager, Query",837
+mongodb,"Sr. Director, IT Product Management – Post Sales and Partner Technology",926
+mongodb,Staff Product Manager,739
+mongodb,Staff Product Manager - Internal AI,936
+mongodb,Staff Product Manager – IT Go-to-Market (Post Sales),1004
+twilio,"Director, Product Management",931
+twilio,Principal Product Manager,1036
+twilio,Product Manager L3,997
+twilio,Staff Product Designer,1292
+twilio,Staff Product Manager - Enterprise AI,1616
+dropbox,"Director, Product Design",1112
+dropbox,Principal Product Designer,925
+dropbox,Staff Product Manager,322
+gusto,"Head of Product, Payroll",1222
+gusto,"Principal Product Manager, Customer Onboarding ",1234
+gusto,"Principal Product Manager, Reporting",1623
+gusto,"Principal Product Operations Manager, Benefits",1244
+gusto,"Senior Product Manager, Document Studio",1685
+gusto,"Senior Product Manager, Gusto Pro Workflows",1248
+gusto,"Senior Product Manager, Symmetry New Tax Products",1163
+gusto,"Senior Staff Product Designer, Finance",1653
+gusto,"Staff Product Designer, Benefits",1211
+gusto,"Staff Product Designer, Retirement",1542
+checkr,"Senior Staff Product Manager, Fraud Hiring Solutions",902
+checkr,"Staff Product Designer, Growth",916
+checkr,"Staff Product Manager, Hiring Fraud Solutions",879
+affirm,"Director of Product Management, Financial Platforms",937
+affirm,"Director, Product Management (Shopping & Offers)",323
+affirm,Group Product Management Manager,1013
+affirm,"Group Product Management Manager, Consumer Servicing",1136
+affirm,"Senior Product Manager, Card Experience",699
+affirm,"Senior Product Manager, Credit & Pricing",807
+affirm,"Senior Product Manager, Financial Platforms",780
+affirm,"Senior Product Manager, Shopping Experiences",693
+affirm,Staff Product Designer,805
+affirm,"Staff Product Manager, Affirm Bank",1102
+affirm,"Staff Product Manager, App Platform & Experience",965
+affirm,Staff Product Security Engineer,777
+chime,"Principal Product Designer, Spending",1198
+chime,"Product Manager, AI & App Experience",1165
+chime,"Product Manager, Growth",1059
+chime,"Product Manager, Trust & Safety",1462
+sofi,"Group Product Manager, Invest",1176
+sofi,"Principal Product Manager, Real-Time Payments Platform",1018
+sofi,"Senior Product Manager, Commercial Banking",943
+sofi,"Senior Product Manager, Member Account Safety",1024
+sofi,"Senior Product Manager, Transactional Risk",1000
+sofi,"Staff Product Designer, Home Loans",1112
+faire,"Senior Product Manager, Fulfillment",1135
+faire,Staff Product Designer (Multiple Openings),1007
+faire,"Staff Product Manager, Inspire & App",1132
+faire,"Staff Product Manager, Pricing",1140
+faire,"Staff Product Manager, Relationship Growth",1346
+faire,"Staff Product Manager, Search Algorithms",924
+verkada,Business Systems - Product Manager,951
+verkada,Business Systems - Product Manager (People Systems),870
+verkada,"Lead Product Manager, New Alarms Product",914
+verkada,"Lead Product Manager, Security Trailers",889
+verkada,Senior Growth Product Manager,881
+verkada,"Senior Product Manager, New Alarms Product",914
+webflow,"Senior Product Manager, Developer Productivity",1382
+webflow,"Staff Product Manager, Governance",1121
+mercury,Head of Product - Business Lending,859
+mercury,Open Call for Founders / Founding Teams - Product Management and Engineering,733
+mercury,Senior Product Manager - Business Lending,728
+mercury,Staff Product Manager - API & Agentic Banking,687
+securityscorecard,Head of Product Operations and AI Transformation,1185
+securityscorecard,Principal Product Marketing Manager,878
+securityscorecard,"Senior/Principal Product Manager, AI",1064
+airbnb,"Product Manager, EMEA",950
+airbnb,"Product Manager, Relevance and Personalization",859
+airbnb," Staff Product Manager, AI Personalization",1020
+lyft,"Group Product Manager, Verticals",968
+lyft,"Product Manager, Driver Earnings",781
+lyft,"Product Manager, Driver Experience",786
+lyft,"Product Manager, Enterprise Software",1066
+lyft,"Product Manager, Risk Tech - Claims",878
+lyft,"Senior Product Manager, Core Rider",819
+lyft,"Senior Product Manager, Hardware (Stations)",1081
+lyft,"Staff Growth Product Manager, Lyft Business",845
+lyft,"Staff Product Manager, Business Travel",1179
+lyft,"Staff Product Manager, Core Rider",852
+lyft,"Staff Product Manager I, Ad Serving",822
+lyft,"Staff Product Manager, Lyft AI Platform & Marketplace Applications",939
+reddit,"Senior Group Product Manager, Advertiser Optimization (Ads Marketplace)",859
+reddit,"Staff Product Manager, Finance Applications",1194
+reddit,"Staff Product Manager, Growth",972
+reddit,Staff Product Security Engineer,833
+reddit,"Staff Technical Product Manager, Ads ML Platform ",1068
+stripe,"Product Manager, Capital",526
+stripe,"Product Manager - Compliance, Bridge",542
+stripe,"Product Manager, Ecosystem Risk",375
+stripe,"Product Manager, EMEA Local Payment Methods",849
+stripe,"Product Manager, Global Marketplaces",740
+stripe,"Product Manager, Global Payouts – Cross-Border & Enterprise Capabilities",652
+stripe,"Product Manager, Growth AI Outreach Motion ",769
+stripe,"Product Manager, Link - Consumer",616
+stripe,"Product Manager, Link - Local Payment Methods",610
+stripe,"Product Manager, Payments",618
+stripe,"Product Manager, Risk & Compliance",517
+stripe,"Product Manager, Sail Core",571
+stripe,"Product Manager, Startup Products",610
+stripe,"Product Manager, Terminal Device Expansion",735
+stripe,"Product Manager, Treasury for Platforms",567
+stripe,"Senior Staff Product Designer, Risk",684
+stripe,"Staff Product Designer, Risk",569
+stripe,"Staff Product Manager, Cards Monetization",846
+stripe,"Staff Product Manager, Dashboard",507
+stripe,"Staff Product Manager, Enterprise",752
+stripe,"Staff Product Manager, Global Expansion",581
+stripe,"Staff Product Manager, Payments",622
+stripe,"Staff Product Manager, Risk Product Experience",440
+stripe,"Staff Product Manager, Support Experience",515
+squarespace,"Senior Product Manager, Acuity Scheduling, (Classes) ",1105
+roblox,"Product Manager, Consumer Payments and Subscriptions",738
+roblox,"Senior Product Manager, App Architecture",896
+roblox,"Senior Product Manager, Avatar Movement",720
+roblox,"Senior Product Manager, Compute Platform ",823
+roblox,Senior Product Manager - Consumer Platforms (Consoles),741
+roblox,Senior Product Manager - Consumer Platforms (Web & Backend),769
+roblox,"Senior Product Manager, Engineering Acceleration",730
+roblox,"Senior Product Manager, Jobs Platform ",824
+roblox,"Senior Product Manager, UI Ecosystems",821
+roblox,"Senior Product Manager, User Life Cycle: Engagement",811
+roblox,"Sr Product Manager, Ads & Brands",602
+okta,"Director, Product Management - Cloud Infrastructure",938
+okta,"Director, Product Management - Integrations",869
+okta,"Director, Product Manager - Okta Identity Threat Detection and Response Products",1356
+okta,Group Product Manager - Privleged Access Management,974
+okta,"Principal Product Manager, AI ",1130
+okta,"Principal Product Manager, IAM Security & Agentic Identity",1183
+okta,"Principal Product Manager, Marketing Technology AI",1571
+okta,Product Manager - Identity Threat Protection,1014
+okta,"Senior Product Manager, Auth0 Platform Infrastructure",857
+okta,"Senior Product Manager, Data Platform",766
+okta,Senior Product Manager - Okta Identity Governance,828
+okta,"Senior Product Manager, Privileged Access Management",895
+okta,"Senior Product Manager, Product Platform",895
+okta,Senior Product Manager - UI Platform,793
+okta, Sr. Product Manager,1305
+okta,Staff Product Analyst,1273
+okta,Staff Product Designer,568
+okta,Staff Product Designer - Enterprise Access,1340
+okta,"Staff Product Marketing Manager, Public Sector",852
+okta,"Staff Product Marketing Manager, Security ",1102
+okta,Staff Product Security Engineer,1108
+okta,"Staff Product Security Engineer, Reviews",818
+okta,"Vice President, Product Management - Identity Management",843
+duolingo,"Senior Product Manager, DET",681
+duolingo,"Senior Product Manager, In-App Purchases",689
+duolingo,"Senior Product Manager, Learning",554
+duolingo,"Senior Product Manager, Monetization",600
+duolingo,"Senior Product Manager, Notifications",905
+duolingo,Staff Product Designer,685
+pinterest,Apprentice Product Manager,909
+pinterest,"Group Product Manager II, Creative Tech - tvScientific",898
+pinterest,"Principal Product Designer, AI Native, Core",805
+pinterest,"Product Manager II, Trust & Safety Tools",974
+pinterest,"Sr. Product Manager, Ads Formats",815
+pinterest,"Sr. Staff Product Owner, Accounting Systems",998
+pinterest,"Staff Product Designer, Design Innovation",1173
+pinterest,"Staff Product Designer, Patterns & Design Innovation",1151
+pinterest,"Staff Product Manager, AI/ML Personalization",929
+pinterest,"Staff Product Manager, AI Safety",1092
+pinterest,"Staff Product Manager, Billing",893
+pinterest,"Staff Product Manager, Model Lifecycle & Management",822
+pinterest,"Staff Product Owner, Collaboration & Productivity",951
+pinterest,"Staff Product Owner, Finance & Business Operations",1019
+flexport,Senior Product Manager,693
+flexport,Staff Product Manager,1030
+betterment,"Product Manager, User Trust",1239
+toast,"Principal Product Designer, Toast IQ Core (AI Product Team)",1438
+toast,"Principal Product Manager, Configuration Platform ",1099
+toast," Principal Product Manager, Kitchen Technology & Innovation",1123
+toast,"Principal Product Manager, POS Ordering ",1262
+toast,"Senior Product Manager, International ",925
+toast,"Senior Product Manager, Toast Now",1005
+fivetran,Principal Product Designer,1363
+fivetran,Product Manager - Fusion,905
+fivetran,Product Manager - Integrations ,1154
+fivetran,"Senior Product Manager, Enterprise Platform",1093
+fivetran,"Senior Product Manager, Growth",1289
+fivetran,"Senior Product Manager, Monetization Platform",1129
+fivetran,"Senior Product Manager, Observability & Monitoring",1152
+fivetran,Staff Product Manager- Developer Experience,1567
+fivetran,"Staff Technical Product Manager, Quote to Order",1561
+hightouch,"Lead Product Manager, Agentic Personalization",1117
+amplitude,Head of Product Design,1464
+amplitude,"Principal Product Marketing Manager, Agents",1271
+mixpanel,Head of Product Marketing,1153
+mixpanel,"Senior Product Manager, Platform",1451
+postman,"Director, Product Partnerships ",1082
+postman,Principal Product Marketing Manager,868
+postman,"Principal Product Marketing Manager, EMEA",984
+cockroachlabs,"Director, Product Management",1309
+cockroachlabs,Staff Product Manager (Data Onboarding),1436
+cockroachlabs,Staff Product Manager (Efficient & Always-on Transactions),1349
+clickhouse,Principal Product Manager - ClickHouse Cloud,807
+clickhouse,Principal Product Manager - Ecosystems & Connectors,953
+clickhouse,"Principal  Product Manager, Security",823
+clickhouse,"Principal Product Manager, Security",823
+clickhouse,Senior Product Manager - ClickHouse Cloud,1072
+starburst,Senior Product Manager - Connectors,707
+starburst,Senior Product Manager - Identity and Access Management,896
+temporaltechnologies,"Senior Product Manager, Scalability & Compute",784
+temporaltechnologies,"Staff Product Manager, Agent Platform",866
+temporaltechnologies,"Staff Product Manager, Core Primitives",1045
+temporaltechnologies,"Staff Product Manager, Developer Lifecycle & Tooling",1028
+abnormalsecurity,Senior Product Manager,647
+huntress,"Director, Product Management, Identity",1196
+huntress,"Principal Product Marketing Manager, Platform",1337
+huntress,"Staff Product Manager, Endpoint Security Posture Management",888
+huntress,"Staff Product Manager, SIEM",1227
+cribl,"Sr Product Manager, Pipeline Generation Systems",1184
+sumologic,Product Manager,545
+sumologic,Senior Product Manager I,779
+newrelic,"Director, Product Management - Monetization",807
+newrelic,Product Manager - Log Management,971
+pagerduty,Senior Product Manager,1337
+klaviyo,"Director, Product Management - Channel Infrastructure & Mobile",1571
+klaviyo,"Lead Product Manager, AI",1283
+klaviyo,"Lead Product Manager, Core Data",1370
+klaviyo,"Product Manager, Internationalization",1157
+klaviyo,"Senior Director, Product Marketing",1255
+klaviyo,"Senior Lead Product Manager, Enterprise",1230
+klaviyo,"Senior Product Manager, Platform Integrity",1127
+klaviyo,"Senior Product Manager, Profiles Platform",1163
+braze,Senior Product Manager,1327
+braze,"Senior Technical Product Manager, Content Platforms ",2056
+marqeta,"Senior Manager, IT Product Management",1433
+marqeta,Senior Product Manager - Dashboard & Enterprise Operational Platforms,1147
+roku,"Director of Product Management, Search",1550
+roku,Senior Product Manager,1218
+roku,"Senior Product Manager, Account Foundations",1060
+roku,"Senior Product Manager, Ads Targeting & Audience Activation",1289
+roku,"Senior Product Manager, Platform / OS",1238
+roku," Senior Product Manager, Recommendations",1294
+roku,"Senior Product Manager, The Roku Channel",1305
+peloton,"Lead Product Manager, Personalized Guidance",1245
+peloton,Product Manager,1108
+peloton,"Sr. Director, Product Safety and Technical Compliance",1295
+oura,"Senior Product Manager, Growth",1149
+oura,"Senior Product Manager, Heart Health",957
+oura,"Senior Product Manager, New Experiences",999
+oura,Staff Product Design Engineer ,1069
+oura,Staff Product Designer ,1110
+oura,"Staff Product Manager, Core Algorithms & Sensing Platforms",997
+oura,"Staff Product Manager, Hardware",1047
+oura,Staff Product Manager - Member Understanding & Intelligence ,1217
+block,"Head of Product, Trust (Risk/Identity)",1128
+block,"Product Manager, Advanced Insights & Modeling",1122
+block,"Product Manager, GTM Automation",1134
+block,"Product Manager, Risk Automation",1000
+carvana,Product Management Apex,725
+carvana,"Product Manager, Multiple Levels",1332
+fastly,"Staff Product Manager, Metacognition",1322
+circleci,Product Manager,660
+imply,"Director, Product Management (Remote)",991
+singlestore,Staff Product Manager | Cloud Data Platform,618
+zscaler,"Director, Product Management, Customer Security Outcomes",1153
+zscaler,"Director Product Marketing, Zscaler Private Access",1104
+zscaler,Principal Production Engineer,976
+zscaler,Principal Product Manager,1137
+zscaler,Principal Product Manager-Agentic SecOps,1361
+zscaler,Senior Product Manager,1067
+zscaler,Senior Product Manager (Web DLP),1082
+zscaler,Staff Production Engineer,975
+pingidentity,Product Manager - Identity for AI,1002
+veracode,"Director, Strategic Product Management",1097
+typeface,Senior Product Manager,608
+typeface,Senior Product Manager-Ads,574
+typeface,Staff Product Designer,616
+typeface,Staff Product Manager,628
+typeface,Staff Product Manager-Design and Intelligence,830
+jetbrains,Product Manager – Developer Tools (Binary Intelligence),540
+jetbrains,Senior Product Manager (AI Analytics),635
+jetbrains,Senior Product Manager (Kineto),458
+jetbrains,Senior Technical Product Manager (IntelliJ Kotlin Plugin),757
+jetbrains,Technical Product Manager (IntelliJ Scala Plugin),757
+netlify,Principal Product Manager (Growth),1216
+netlify,Staff Product Manager (Accounts & Billing),1065
+galileo,Lead Product Manager,837
+youcom,Senior Product Manager,992
+cresta,Associate Forward Deployed Product Manager,977
+cresta,"Director, Product Marketing - International (EMEA & APAC)",676
+cresta,"Forward Deployed Product Manager, AI Agent",851
+cresta,Forward Deployed Product Manager - AI Agent (EMEA),863
+cresta,Platform Product Manager,841
+remotecom,Senior Product Manager,1403
+remotecom,"Senior Product Manager, Fraud and Compliance",1416
+remotecom,"Senior Product Manager, HRIS Integrations",1335
+remotecom,"Senior Product Manager, Remote Build",1732
+remotecom,"Senior Product Manager, Reporting & Insights",1405
+remotecom,Senior Staff Product Designer,1310
+remotecom,"Staff Product Designer, Pay Ecosystem",1596
+gemini,Lead Product Manager,690
+gemini,Product Management Intern (Fall 2026),975
+gemini,Senior Product Manager,664
+nuro,Head of Product,1170
+mistral,"Executive Assistant to VP, Cloud and VP, Product",534
+mistral,"Product Manager, AI Studio",804
+mistral,"Product Manager, Cloud Partnerships",893
+mistral,"Product Manager, Context & Search",718
+mistral,"Product Manager, Document Intelligence",801
+mistral,"Product Manager, Forge",866
+mistral,"Product Manager, Mistral Vibe",1075
+gohighlevel,"Associate Director, Product Strategy & Operations (Revenue)",776
+gohighlevel,"Sr. Director, Product Design",2055
+gohighlevel,"Sr. Director, Product Management (Core Products)",1059
+gohighlevel,"Sr. Director, Product Management (Marketing OS & Lead Generation Suite)",959
+gohighlevel,"Sr. Director, Product Management (Revenue Products)",1473
+gohighlevel,Sr. Product Manager - Commerce Operations,1266
+gohighlevel,Sr. Product Manager - Creators,1254
+gohighlevel,Sr. Product Manager - Documents,1373
+gohighlevel,Sr. Product Manager - Funnels & Websites,1055
+gohighlevel,Sr. Product Manager - Phone Numbers and KYC,1247
+gohighlevel,Sr. Product Manager - Phone Platform,1188
+gohighlevel,Staff Product Manager - (Customer Retention - Platform),1037
+gohighlevel,Staff Product Manager - Agency Revenue Growth,979
+gohighlevel,Staff Product Manager - Creators,1292
+gohighlevel,Staff Product Manager - Mobile Platform,840
+gohighlevel,Staff Product Manager - Onboarding and Activation,702
+gohighlevel,Staff Product Manager - Phone Numbers and A2P,1260
+gohighlevel,Staff Product Manager - Product Information Management,976
+gohighlevel,"Staff Product Manager - Social Planner, Ad Manager, Blogs",1383
+gohighlevel,Staff Product Manager – Voice AI,1731
+verifiable,Senior Product Manager,671
+jobgether,Director of Technical Product Management,466
+jobgether,"Director, Product Design",498
+jobgether,"Director, Product Growth",458
+jobgether,"Director, Product Management",447
+jobgether,Group Product Manager,462
+jobgether,Group Product Manager - AI,519
+jobgether,"Group Product Manager, SmarterDenials",528
+jobgether,Hardware Product Manager,392
+jobgether,Head of Product,504
+jobgether,Head of Product - Core Team,425
+jobgether,"Lead Product Manager, Consumer Apps",432
+jobgether,Lead Wireless Product Manager,446
+jobgether,Principal Product Designer (contract or FTE),423
+jobgether,Principal Product Manager,462
+jobgether,"Principal Product Manager, Engineering Intelligence & Insights",475
+jobgether,Product Manager - Engineered Power Feeders,534
+jobgether,Product Manager - Especialista I (OMS - Order Management System),485
+jobgether,Product Manager - Finance Super App,397
+jobgether,Product Manager - Interfaces,442
+jobgether,Product Manager - Player Onboarding & Activation,462
+jobgether,Product Manager - Pleno,432
+jobgether,Product Manager II,437
+jobgether,"Product Manager, Growth",467
+jobgether,"Product Manager, Smart Building Platform",494
+jobgether,"Product Manager, Tandem",415
+jobgether,"Senior Director, Product Management",439
+jobgether,"Senior Manager, Product Management: Agentic Software Delivery",474
+jobgether,Senior Product Manager,512
+jobgether,Senior Product Manager - Edifecs,460
+jobgether,Senior Product Manager - US Payments,498
+jobgether,"Senior Product Manager, AI & 3rd Party Products",480
+jobgether,"Senior Product Manager, DeFi",510
+jobgether,"Senior Product Manager, ECOMMERCE",607
+jobgether,"Senior Product Manager, Growth Marketing Platform",506
+jobgether,"Senior Product Manager, HRIS Integrations",527
+jobgether,"Senior Product Manager, Integrations & Platform",493
+jobgether,"Senior Product Manager, Intelligence",418
+jobgether,"Senior Product Manager, Interoperability Engine",522
+jobgether,"Senior Product Manager, ROI Platform",517
+jobgether,"Sr Product Manager, Ads & Brands",501
+jobgether,Sr. AI Product Manager,468
+jobgether,Sr. Product Manager,408
+jobgether,Sr. Product Manager (MarTech & SaaS),470
+jobgether,"Staff AI Product Analyst, Product Management",529
+jobgether,Staff Product Designer,490
+jobgether,Staff Product Manager,499
+jobgether,Staff Product Manager - Afirmativa para PcD,461
+jobgether,Technical Product Manager,448
+jobgether,Technical Product Manager – Storage,502
+jobgether,Technical Product Manager – WAN & Network Connectivity,434
+jobgether,"Upstream Marketing Product Manager, Assurance & Monitoring",450
+jobgether,VP Product,384
+dnb,Principal Product GTM Manager - m/f/d (R-19237),237
+dnb,Product Manager (R-19168),701
+dnb,"Senior Principal Product Manager, GTM - Insurance (R-19226)",842
+dnb,Senior Product Manager - Enterprise Gen AI (R-19363),990
+dnb,Senior Product Manager - GTM (19239),601
+veeva,Associate Product Manager - Network MDM,788
+veeva,Associate Product Manager - Vault CRM Suite,753
+veeva,Data Product Manager - OpenData Europe,489
+veeva,Data Product Manager - OpenData Middle East and North Africa (MENA),532
+veeva,Director Product Management - Veeva RIM,758
+veeva,Director Product Marketing - Clinical Operations,707
+veeva,Product Manager,914
+veeva,Product Manager - cLean OpenData,681
+veeva,Product Manager - Health Data,914
+veeva,Product Manager - Network,970
+veeva,Product Manager - OpenData (Vietnam),625
+veeva,Product Manager - Vault CRM Suite,1095
+veeva,Product Manager - Veeva Labs,672
+veeva,Product Manager - Veeva Link Key People (MedTech),767
+veeva,Product Manager/Director - Crossix,738
+veeva,Product Manager/Director - Marketing Analytics - Crossix,671
+veeva,Senior Product Manager,845
+veeva,Senior Product Manager - Campaign Manager,842
+veeva,Senior Product Manager - Compass Platform,860
+veeva,Senior Product Manager - EDC,864
+veeva,Senior Product Manager - Patient CRM,896
+veeva,Senior Product Manager - SAP ERP Integrations,789
+veeva,Senior Product Manager - Vault CRM - Med Tech,870
+veeva,Senior Product Manager - Vault CRM - Service Center,877
+veeva,Senior Product Manager - Vault CRM Suite,1130
+veeva,Senior Product Manager - Vault Platform Access Control,614
+veeva,Senior Product Manager - Vault QMS,791
+veeva,Senior Product Manager - Veeva Clinical Operations,851
+veeva,Senior Product Manager - Veeva Labs,692
+veeva,Technical Product Manager,847
+veeva,Technical Product Manager - AI Solutions,681
+swordhealth,Senior Product Manager,848
+spotify,Product Manager - Data Platform,571
+spotify,Senior Product Manager - Core Experience,722
+spotify,Senior Product Manager - Design Systems,544
+spotify,Senior Product Manager - ML / Subscriptions Growth,387
+spotify,Senior Product Manager - Sharing & Social,496
+spotify,Senior Product Manager – Financial Engineering - Tax Solutions,484
+simular,AI Product Manager,355
+headway,"Staff Product Marketing Manager, Payer - Clinical Value",954
+headway,"Principal Product Designer, Payer",1001
+headway,Principal Product Manager,1165
+headway,"Staff Product Designer, Group Practices",1238
+headway,"Staff Product Manager, Pricing ",893
+headway,"Staff Product Manager, AI Patient Experience",827
+headway,"Staff Product Designer, Provider Onboarding",1113
+headway,"Staff Product Manager, AI Platform",823
+headway,Staff Product Manager,1194
+supabase,Product Manager - Security & Trust (EMEA/AMER),1037
+supabase,Product Manager - Infrastructure,841
+supabase,Product Manager - AI ,874
+supabase,Product Manager - Interfaces,934
+profound,"Product Manager, Verticals",689
+profound,"Product Manager, AI",674
+profound,"Product Manager, Analytics ",683
+profound,"Product Manager, Web Presence",638
+profound,"Product Manager, Content Management System",576
+compa,"Product Manager, AI Agents",623
+openai,"Product Manager, Sensitive Deployments",695
+openai,"Product Manager, Financial Engineering",793
+openai,"Product Manager, Families",721
+openai,"Product Manager, Integrity",778
+openai,"Product Manager, Bio Safety",806
+openai,"Deployed Product Manager, Codex ",749
+openai,"Product Manager, ChatGPT Sites",872
+openai,"GTM Growth Product Manager, Agentic Systems",826
+openai,"Product Manager, API Infrastructure",827
+openai,"Product Manager, Shopping",801
+openai,"Product Manager, ChatGPT Healthcare",756
+openai,"Product Manager, Cyber Safety",806
+openai,"Product Manager, Safety Measurement",789
+openai,"Product Manager, API Agents",723
+ramp,"Director, Product Design",956
+ramp,Product Manager | Agentic CX,1523
+ramp,Product Manager | Vendor Intelligence & Marketplace,1070
+linear,Senior / Staff Product Engineer,679
+linear,Product Manager,551
+linear,"Senior / Staff Product Engineer, AI",748
+linear,Senior / Staff Product Designer,655
+linear,Principal Product Designer,657
+vanta,"Staff Product Designer, Design Systems",1027
+vanta,"Senior Product Manager, Test Experience",900
+notion,"Product Manager, Workspaces",888
+cursor,"Director, Product Education Engineering",591
+zip,"Principal Product Manager, Enterprise Foundations",707
+zip,"Senior Product Manager, AP Automation",628
+zip,"Principal Product Manager, AI",761
+zip,Senior / Principal Product Manager,566
+zip,"Principal Product Manager, Global Payments Platform and Controls",719
+zip,"Product Manager, Onboarding",711
+zip,Senior/Staff Product Designer,660
+zip,"Senior Product Manager, App Studio and Marketplace",804
+ashby,"Staff Product Engineer, Americas",2981
+ashby,"Staff Product Engineer, Canada",2981
+ashby,Staff Product Designer,1701
+watershed,"Senior product manager, methodology",895
+watershed,Staff product designer,765
+watershed,"Sr Product manager, supply chain data products",750
+baseten,"Product Manager, Developer Experience",883
+baseten,"Product Manager, Inference Platform",778
+decagon,Senior Agent Product Manager,964
+decagon,Senior Agent Product Manager - Germany,964
+decagon,"Product Manager, Research",592
+decagon,Senior Agent Product Manager - Sydney,956
+decagon,"Product Manager, Duet",777
+decagon,Senior Agent Product Manager - German Speaking,963
+decagon,Product Manager,656
+sierra,"Product Manager, Voice",1011
+sierra,"Product Manager, Agent SDK",1039
+sierra,"Product Manager, Infrastructure",930
+sierra,"Product Manager, Ghostwriter",943
+sierra,"Product Manager, Agent Development (Italian speaking)",919
+sierra,"Product Manager, Agent Development (French speaking)",926
+sierra,"Product Manager, Agent Data Platform",990
+sierra,"Product Manager, Agent Development (Spanish speaking)",926
+sierra,"Product Manager, Agent Development (Brazilian Portuguese speaking)",927
+sierra,"Product Manager, Agent Studio",1056
+sierra,"Product Manager, Agent Development - Healthcare",1334
+sierra,"Product Manager, Agent Development - Flagship Deployment",1210
+sierra,"Product Manager, Agent Development (Arabic speaking)",919
+sierra,"Product Manager, Agent Development",919
+sierra,"Product Manager, Agent Development (German speaking)",926

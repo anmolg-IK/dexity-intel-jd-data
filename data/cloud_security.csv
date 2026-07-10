@@ -1,0 +1,25 @@
+"# Dexity Intel — real job descriptions backing this role's article. Source: public ATS boards (Greenhouse/Lever/Ashby) official JSON APIs. Snapshot: July 2026, rolling scan. Each row is a real posting — verify by searching the title at the company."
+
+company,job_title,word_count
+arizeai,DevSecOps Engineer (TypeScript & Agentic AI),928
+robinhood,Senior Cloud Security Engineer,742
+datadog,"Director, Product Management - Cloud Security and Shared Capabilities",989
+datadog,"Group Product Manager, Cloud Security",936
+datadog,Senior Cloud Security Engineer - K8s,839
+stripe,Cloud Security Engineer,654
+roblox,Senior Cloud Security Engineer ,650
+clickhouse,Cloud Security Engineer,688
+temporaltechnologies,Staff Cloud Security Engineer,1015
+huntress,Staff Cloud Security Engineer,1134
+zscaler,Principal DevSecOps Engineer (Design/Architecture),1074
+zscaler,Software Development Engineer (DevSecOps),1136
+observeai,Staff DevSecOps Engineer,778
+mistral,"CyberSecurity Engineer, DevSecOps",640
+thinkahead,DevSecOps Engineer,598
+thinkahead,Specialist Solutions Engineer - Cloud Security,1073
+jobgether,DevSecOps Engineer,448
+jobgether,Multi‑Cloud Security Engineer,686
+jobgether,"Staff Engineering Manager, Cloud Security",471
+jobgether,Vulnerability & Cloud Security Program Manager,440
+ro,Staff Cloud Security Engineer,1255
+spotify,Cloud Security Engineer,468
