@@ -1,0 +1,310 @@
+"# Dexity Intel — real job descriptions backing this role's article. Source: public ATS boards (Greenhouse/Lever/Ashby) official JSON APIs. Snapshot: July 2026, rolling scan. Each row is a real posting — verify by searching the title at the company."
+
+company,job_title,word_count
+anthropic,"Field Marketing Lead, EMEA",1393
+anthropic,Field Marketing Manager,1223
+anthropic,"Product Marketing Lead, Claude Platform - Cloud",1221
+figma,"Community Marketing Manager - Figma Weave (New York, United States) ",796
+figma,Customer Marketing Manager,937
+figma,"Director, Growth Marketing",944
+figma,"Head of Marketing, LATAM (São Paulo, Brazil)",945
+figma,"Product Marketing Manager, Audience and Messaging",1096
+figma,"Product Marketing Manager, Monetization",992
+scaleai,"Product Marketing Lead, GenAI",958
+arizeai,"Technical Product Marketing Manager, Competitive Intelligence & Sales Enablement (AI Native)",863
+arizeai,"Technical Product Marketing Manager, Developer Growth",710
+databricks,Head of Marketing - Japan,805
+databricks,Principal Demand Generation Manager ,663
+databricks,"Product Marketing Director, AI",694
+databricks,"Product Marketing Director, Lakewatch",1007
+databricks,"Sr. Industry Marketing Manager, Financial Services",942
+databricks,Sr. Partner Marketing Manager - Consulting & System Integrators,836
+databricks,"Sr. Product Marketing Manager, Lakebase",846
+discord,"Staff Product Marketing Manager, Consumer",845
+brex,Customer Marketing Manager,727
+brex,"Director, Product Marketing",804
+brex,"Product Marketing Lead, Startups",779
+brex,Senior Partner Marketing Manager,844
+gitlab,"Senior Regional Marketing Manager, EMEA",1101
+gitlab,Staff Lifecycle Marketing Manager,1149
+asana,Customer Marketing Manager,1067
+asana,Head of Demand Generation,922
+asana,"Marketing Lead, UKI",1042
+asana,"Senior Product Marketing Manager, Asana Service Management",819
+asana,"Senior Product Marketing Manager, Command by Asana",822
+coinbase,"Performance Marketing Manager , Global",710
+coinbase,"Product Marketing Manager, Prediction Markets",646
+coinbase,"Product Marketing Manager, Prime & Markets",684
+instacart,"Director, Enterprise Product Marketing",818
+instacart,"Senior Product Manager, Growth Marketing Platform",810
+samsara,Senior Performance Marketing Manager - Paid Social,1646
+samsara,Sr. Product Marketing Manager - Release Marketing & PMM Operations,1446
+elastic,Lifecycle Marketing Manager - Self Service Cloud,1157
+elastic,Partner Marketing Manager - Strategic Partners,1090
+elastic,Principal Competitive Intelligence - Search - Product Marketing,1160
+elastic,Principal Product Marketing Manager - Platform,1216
+elastic,Senior Competitive Benchmarking Developer - Product Marketing,1026
+elastic,Senior Competitive Benchmarking Engineer - Product Marketing,1071
+datadog,Associate Field Marketing Manager (West/Central),795
+datadog,Customer Marketing Manager,778
+datadog,Partner Marketing Manager - Cloud & Channel (EMEA),711
+datadog,Product Marketing Manager,726
+datadog,Product Marketing Manager - APM,782
+datadog,Product Marketing Manager - Log Management,895
+datadog,"Senior Director, Growth Marketing – Organic Growth (SEO/GEO)",849
+datadog,Senior Event Marketing Manager - Conferences & Global Events,746
+datadog,Senior Field Marketing Manager - Public Sector (EMEA),799
+datadog,"Senior Partner Marketing Manager, Cloud - NAMER",962
+datadog,Senior Technical Product Marketing Manager - Security,809
+mongodb,Growth Marketing Manager,1088
+mongodb,Marketing Manager,800
+mongodb, Product Marketing Manager,982
+mongodb,Senior Technical Product Marketing Manager,1052
+twilio,Senior Customer Marketing Manager,743
+gusto,"Product Marketing Leader, Gusto Core Products",1030
+checkr,Senior Field Marketing Manager,896
+affirm,Product Marketing Manager,1041
+chime,"Creative Director, Growth and Product Marketing",1338
+chime,"Director, Growth Marketing (TV & Offline Media)",1320
+chime,Growth Product Marketing Manager,1148
+sofi,"Senior Lifecycle Marketing Manager, Home Loans",800
+faire,"Growth Marketing Manager, Paid Social",1064
+faire,Head of Retailer Product Marketing,1082
+faire,Product Marketing Lead,1397
+faire,Senior Lifecycle Marketing Manager,1023
+faire,Senior Product Marketing Manager,1161
+verkada,Demand Generation Manager,882
+verkada,Field Marketing Manager (Japan),736
+verkada,Field Marketing Manager - Northern Europe ,814
+verkada,Field Marketing Manager - Southern Europe ,813
+verkada,Growth Marketing,1041
+verkada,"Growth Marketing Manager, Channel Technical Programs",1026
+verkada,Head of Marketing Operations,1003
+verkada,"Product Marketing Manager, Privacy and Video Security",1204
+verkada,Product Marketing Manager / Sr. Product Marketing Manager,927
+verkada,"Program & Marketing Manager, Executive Customer Programs",964
+verkada,"Senior Channel Marketing Manager, Southeast (Remote)",850
+verkada,Senior Field Marketing Manager - Enterprise,956
+verkada,"(Sr.) Field Marketing Manager - Mid-Market, East",951
+verkada,"(Sr.) Field Marketing Manager - Mid-Market, West",950
+webflow,"Field Marketing Manager, EMEA",1352
+mercury,"Product Marketing Lead, Growth & Revenue",824
+mercury,Senior Product Marketing Manager - API & Agentic Banking,696
+vercel,"Field Marketing Manager, Startups (EMEA)",1045
+vercel,"Growth Marketing Manager, Agent Stack ",648
+vercel,Performance Marketing Manager ,751
+securityscorecard,Principal Product Marketing Manager,878
+securityscorecard,"Senior Director, Demand Generation",883
+airbnb,"Growth Marketing Lead, Guest Engagement",850
+airbnb,"Growth Marketing Lead, Japan ",580
+airbnb,"Head of Growth Marketing,  Asia ",646
+lyft,"Growth Marketing Manager, Programmatic",770
+lyft,"Marketing Manager II, Luxury Experience",886
+lyft,"Sr. Product Marketing Manager - Measurement, Data & Audiences",1089
+lyft,"Sr. Product Marketing Manager, Programmatic Ad Solutions",1015
+stripe,AEO and GEO Marketing Manager,571
+stripe,"Consumer Product Marketing Lead, Link",686
+stripe,Field Marketing Manager - AUNZ,929
+stripe,"Field Marketing Manager, SMB and Mid-Market - EMEA",663
+stripe,"Global Partner Marketing Lead, AI",785
+stripe,"GTM Product Marketing Manager, Commerce Experiences",643
+stripe,"Head of Market Intelligence, Product Marketing",513
+stripe,Paid Digital Marketing Manager,595
+stripe,"Paid Social Marketing Manager, Americas",595
+stripe,Product Marketing Manager,564
+stripe,"Product Marketing Manager, Apps and Ecosystem",926
+stripe,"Product Marketing Manager, Global Selling",556
+stripe,"Product Marketing Manager, Growth",1105
+stripe,"Product Marketing Manager, Market Intelligence",615
+stripe,"Product Marketing Manager, Portfolio Pricing",596
+stripe,"Product Marketing Manager, Radar",422
+stripe,Regional Field Marketing Manager (Northern and Southern Europe),889
+stripe,"Regional Product Marketing Manager, United Kingdom",559
+stripe,"Writer, Content Marketing",441
+roblox,"Marketing Manager, Europe",711
+roblox,"Marketing Manager, India",584
+roblox,"Marketing Manager, LATAM",622
+roblox,"Product Marketing Manager, Creator Monetization",727
+roblox,"Product Marketing Manager, Discovery ",795
+roblox,Senior Growth Marketing Manager ,987
+okta,"Director, Technical Product Marketing ",1356
+okta,Head of Marketing APJ,953
+okta,Partner Marketing Manager - ANZ,766
+okta,Senior Product Marketing Specialist,731
+okta,"Staff Product Marketing Manager, Public Sector",852
+okta,"Staff Product Marketing Manager, Security ",1102
+duolingo,Performance Marketing Lead,709
+duolingo,Product Marketing Lead,798
+duolingo,"Product Marketing Manager, Duolingo Math",676
+duolingo,"Regional Marketing Manager, MENA",891
+duolingo,"Senior B2B Marketing Manager, DET (UK, Europe & ANZ) ",799
+flexport,"Content Marketing Manager, Mumbai",479
+betterment,"Manager, Demand Generation Marketing",1131
+betterment,"Senior Content Associate, Lifecycle Marketing",1201
+fivetran,"Product Marketing Manager, Pricing",1371
+fivetran,"Senior Product Marketing Manager, Activations",1358
+fivetran,Senior Technical Product Marketing Manager,1306
+amplitude,"Principal Product Marketing Manager, Agents",1271
+amplitude,Web Growth Marketing Manager,1522
+mixpanel,Head of Product Marketing,1153
+postman,Field Marketing Manager ,876
+postman,Head of Marketing Analytics,1103
+postman,Head of Marketing Operations & Production,1129
+postman,Principal Product Marketing Manager,868
+postman,"Principal Product Marketing Manager, EMEA",984
+postman,Senior Digital Marketing Manager,1305
+postman,Senior Product Marketing Manager,822
+cockroachlabs,Field Marketing Manager,1036
+cockroachlabs,Sr. Technical Partner Marketing Manager,1034
+cockroachlabs,"VP, Demand Generation & Marketing Operations",1753
+clickhouse,Product Marketing Engineer ,822
+clickhouse,"Product Marketing, Industry Marketing",819
+clickhouse,"Product Marketing, Postgres",792
+temporaltechnologies,Events & Field Marketing Manager - India,1054
+temporaltechnologies,"Field Marketing Manager, Sponsorship & Experiential — United Kingdom ",1189
+temporaltechnologies,"Senior Events & Field Marketing Manager, Developer Conference Programming",1489
+temporaltechnologies,"Senior Manager, Global Field Marketing Lead",1323
+temporaltechnologies,"Senior Staff Technical Product Marketing Manager, AI",1033
+huntress,"Principal Product Marketing Manager, Platform",1337
+klaviyo,Integrated Marketing Lead - K:Service,1178
+klaviyo,Lead Product Marketing Manager - Enterprise,1369
+klaviyo,"Senior Director, Product Marketing",1255
+klaviyo,Senior Product Marketing Manager - Verticals,1010
+braze,Field Marketing Lead (12 Month Fixed Term),1623
+braze,"Industry Marketing Lead, Media, Entertainment, Sports & Gaming",1520
+braze,Senior Global Event Marketing Manager,1677
+braze,"Senior Marketing Manager, Localization",1396
+roku,"Ad Product Marketing Manager, Commerce Media ",1176
+peloton,Sr. Marketing Manager (Fixed Term Contract),961
+block,Global B2B Growth Marketing Lead,1121
+block,"Partner Marketing Manager, UK",733
+fastly,"Director, Content Marketing",1440
+fastly,"Senior Director, Digital & Growth Marketing",1426
+circleci,Marketing Manager,813
+circleci,Sr. Product Marketing Manager,567
+launchdarkly,Product Marketing Manager,927
+imply,Demand Generation Manager (Remote),839
+zscaler,"Director Product Marketing, Zscaler Private Access",1104
+zscaler,Senior Product Marketing Manager,1144
+zscaler,Senior Product Marketing Manager - AI Protect,1347
+zscaler,"Senior Product Marketing Manager, Zero Trust Branch",1089
+zscaler,"Senior Product Marketing Manager, Zero Trust Cloud",1167
+zscaler,"Senior Product Marketing Manager, ZIA",1118
+pingidentity,Senior Field Marketing Manager,736
+typeface,Senior Content Marketing Manager ,699
+typeface,Senior Product Marketing Manager ,757
+jetbrains,Senior Marketing Manager,593
+youcom,Developer Marketing Lead,775
+cresta,"Demand Generation Manager, Enterprise",700
+cresta,Digital Marketing Manager ,818
+cresta,"Director, Product Marketing - International (EMEA & APAC)",676
+cresta,Enterprise Demand Generation Manager,700
+cresta,Events and Field Marketing Manager,741
+cresta,"Growth Marketing Manager, Web & CRO",836
+cresta,Head of Demand Generation & Growth ,783
+remotecom,Content Marketing Lead,1446
+gemini,"Associate, Growth Marketing (Advanced Trading Products)",824
+mistral,"Product Marketing Manager, Solutions",595
+mistral,Senior Product Marketing Manager - Studio,805
+jobgether,🇧🇷 Field Marketing Manager,450
+jobgether,B2B Content Marketing Specialist,377
+jobgether,Brand Marketing Manager,462
+jobgether,Content Marketing Lead,466
+jobgether,Content Marketing Manager,439
+jobgether,"Creative Strategist, Consumer Growth Marketing",431
+jobgether,Customer Marketing Manager,472
+jobgether,Demand Generation Manager,567
+jobgether,Digital Marketing Manager,522
+jobgether,Director of Demand Generation,408
+jobgether,Events & Field Marketing Manager,522
+jobgether,Field Marketing Manager,595
+jobgether,Growth Marketing Lead (Contractor/Fractional),519
+jobgether,Growth Marketing Manager,568
+jobgether,Growth Marketing Manager - 3 Month Contract,429
+jobgether,Head of Marketing and Growth,454
+jobgether,Lease-Up Marketing Manager (Real Estate),565
+jobgether,Lifecycle Marketing Manager,542
+jobgether,"Marketing Manager, Communications",508
+jobgether,Paid Digital Marketing Manager,496
+jobgether,Performance Marketing Lead – African Markets,513
+jobgether,Performance Marketing Manager,433
+jobgether,Product Marketing Manager,447
+jobgether,Product Marketing Manager - SaaSify,525
+jobgether,Product Marketing Manager (AI Team),621
+jobgether,Regional Marketing Manager,503
+jobgether,Senior Customer Marketing Manager,485
+jobgether,"Senior Director, Growth Marketing",416
+jobgether,Senior Event Marketing Manager,475
+jobgether,Senior Growth Marketing Manager,458
+jobgether,"Senior Integrated Marketing Manager, Life Sciences",521
+jobgether,Senior Partner Marketing Manager,465
+jobgether,Senior Performance Marketing Manager,536
+jobgether,"Senior Product Manager, Growth Marketing Platform",506
+jobgether,Senior Product Marketing Manager,469
+jobgether,Senior Project Manager (360° Creative & Growth Marketing Campaigns),339
+jobgether,Sr Product Marketing Manager,633
+jobgether,"Sr. Director, Growth Marketing",427
+jobgether,"Sr. Manager, Growth Marketing",444
+dnb,"Marketing Manager, Public Sector (R-19430)",722
+dnb,"Senior Product Marketing Manager, Sales and Marketing Solutions (R-19313)",1096
+veeva,Associate Field Marketing Manager / Manager,592
+veeva,Content Marketing - Manager / Senior Manager,893
+veeva,Customer Marketing Manager,683
+veeva,Director Product Marketing - Clinical Operations,707
+veeva,Field Marketing Manager/Senior Manager,610
+veeva,Maternity Cover - Field Marketing Manager / Senior Manager,792
+veeva,Product Marketing - Associate Director / Director,804
+veeva,Product Marketing - Associate Manager/Manager,798
+veeva,Product Marketing - Manager / Senior Manager,780
+veeva,Product Marketing Manager / Associate Manager - Veeva Link,848
+veeva,Product Marketing Manager / Senior Manager - Clinical Operations,741
+veeva,Product Marketing Manager / Senior Manager - Commercial Content,728
+veeva,Senior Field Marketing Manager - Quality Cloud,750
+spotify,"Consumer Marketing Manager, East Africa",637
+spotify,"Experiential Marketing Manager, South Korea",435
+spotify,Marketing Manager ANZ,750
+spotify,Marketing Manager UK/IE,564
+spotify,"Marketing Manager, Brand Experience",491
+spotify,Social Marketing Manager,687
+headway,"Staff Product Marketing Manager, Payer - Clinical Value",954
+headway,Head of Patient Growth Marketing,1006
+supabase,Field & Events Marketing Manager ,1160
+profound,Product Marketing Manager,781
+profound,Content Marketing Manager,620
+profound,Demand Generation Lead,659
+profound,Partner Marketing Manager,651
+profound,Creator Marketing Manager,789
+profound,Lifecycle Marketing Manager,696
+openai,"Growth Marketing, Creative System and Optimization",1075
+openai,Industry Product Marketing Manager,983
+openai,"Partner Marketing Lead, APAC",827
+openai,Integrated Marketing Manager,881
+openai,"Customer Marketing Manager, SMB",782
+openai,Brand Partner Marketing Manager,1210
+openai,"Developer Marketing Lead, APAC",879
+openai,"B2B Marketing Lead, Korea",923
+openai,"Product Marketing Manager, Cybersecurity",1031
+openai,"Product Marketing Lead, Advertising",843
+openai,"Product Marketing Manager, Marketing Finance",949
+openai,"Developer Marketing Lead, India",897
+openai,"Customer Marketing Manager, Enterprise and Digital Natives",993
+ramp,"Enterprise Marketing Manager, Strategic Accounts",1041
+ramp,Product Marketing Manager,881
+linear,Product Marketing Manager,605
+notion,Field Marketing Manager,975
+notion,"SMB Demand Generation Marketing Manager, Japan (Contract)",856
+notion,"Product Marketing Manager, Core Product",949
+cursor,Product Marketing Manager,462
+cursor,"Vertical Marketing Lead, Americas",603
+cursor,Customer Marketing Manager,523
+cursor,"Field Marketing Manager, West",591
+watershed,Product marketing manager,790
+baseten,Partnerships Product Marketing Manager,604
+baseten,Customer Marketing Manager ,669
+baseten,Ecosystem Partnerships Product Marketings Manager,588
+modal,Product Marketing Manager,530
+decagon,Field Marketing Manager ,458
+decagon,Senior Customer Marketing Manager,505
+decagon,Growth Marketing Manager,692
+sierra,"Marketing Manager, Events (Europe) ",1090
+writer,"Senior product marketing manager, platform & LLMs",664

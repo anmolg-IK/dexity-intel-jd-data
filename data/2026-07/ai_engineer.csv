@@ -1,0 +1,393 @@
+"# Dexity Intel — real job descriptions backing this role's article. Source: public ATS boards (Greenhouse/Lever/Ashby) official JSON APIs. Snapshot: July 2026, rolling scan. Each row is a real posting — verify by searching the title at the company."
+
+company,job_title,word_count
+anthropic,Applied AI Architect,1093
+anthropic,"Applied AI Architect, Applied AI (Digital Natives Business)",1097
+anthropic,"Applied AI Architect, Commercial",1206
+anthropic,"Applied AI Architect, Enterprise Tech",1149
+anthropic,"Applied AI Architect, Government Technology",1148
+anthropic,"Applied AI Architect, Industries",1138
+anthropic,"Applied AI Architect Lead, EMEA Commercial",1472
+anthropic,"Applied AI Architect, Partnerships",1653
+anthropic,"Applied AI Architect, Public Sector",1369
+anthropic,"Applied AI Architect, State and Local Government",1138
+anthropic,"Applied AI Claude Evangelist, Startups",1282
+anthropic,Applied AI Security Architect,1300
+anthropic,"[Expression of Interest] Research Engineer / Scientist, Alignment - London",1103
+anthropic,"Head of ANZ, Applied AI",1345
+anthropic,"Head of Applied AI Architecture, Beneficial Deployments",1354
+anthropic,"Manager, Applied AI Engineering",1359
+anthropic,"Manager, Applied AI Engineering,  Beneficial Deployments (Life Sciences)",1384
+anthropic,"Manager of Applied AI Architecture, Enterprise Tech",1165
+anthropic,"Manager of Applied AI Architecture, Enterprise Tech (Cyber)",1387
+anthropic,"Manager of Applied AI Architecture, Partnerships",1100
+anthropic,"Manager of Applied AI Architecture, Startups",1378
+anthropic,"ML/Research Engineer, Safeguards",935
+anthropic,"Partner Solutions Architect, Applied AI",1016
+anthropic,"Research Engineer, Code RL (Reinforcement Learning)",1135
+anthropic,"Research Engineer, Computer Use",892
+anthropic,"Research Engineer, Cybersecurity RL (Reinforcement Learning)",919
+anthropic,"Research Engineer, Discovery",1056
+anthropic,"Research Engineer, Domain Scaling",939
+anthropic,"Research Engineer, Economic Research Data Platform",1248
+anthropic,"Research Engineer, Interpretability",1325
+anthropic,"Research Engineer, Knowledge Foundations",1235
+anthropic,"Research Engineer, Knowledge Team",901
+anthropic,"Research Engineer, Life Sciences",932
+anthropic,"Research Engineer, Machine Learning (Reinforcement Learning)",1143
+anthropic,"Research Engineer, Machine Learning (RL Velocity)",923
+anthropic,"Research Engineer, Performance RL (Reinforcement Learning) ",961
+anthropic,"Research Engineer, Pretraining",1161
+anthropic,"Research Engineer, Pretraining Scaling",1275
+anthropic,"Research Engineer, Pretraining Scaling - London",1274
+anthropic,"Research Engineer, Production Model Post-Training",974
+anthropic,"Research Engineer/Research Scientist, Audio",1049
+anthropic,"Research Engineer / Research Scientist, Pre-training",1043
+anthropic,"Research Engineer/Research Scientist, Pre-training",1161
+anthropic," Research Engineer / Research Scientist, Tokens",985
+anthropic,"Research Engineer, RL Scaling Science",993
+anthropic,"Research Engineer, Rule of Law",1422
+anthropic,"Research Engineer, Safeguards Labs",1120
+anthropic,"Research Engineer / Scientist, Alignment",1179
+anthropic,"Research Engineer / Scientist, Frontier Red Team (Cyber)",1274
+anthropic,"Research Engineer, Universes",970
+anthropic,"Research Engineer, Visual Knowledge Work",1007
+anthropic,"Solutions Architect, Applied AI ",1133
+anthropic,"Staff Research Engineer, Discovery Team",1037
+figma,Support AI Engineer,1152
+scaleai,"Applied AI Engineer, Global Public Sector",873
+scaleai,"Machine Learning Engineer, Global Public Sector",1036
+scaleai,"Machine Learning Engineer, Platform",675
+scaleai," Machine Learning Research Engineer, Agent Data Foundation - Enterprise GenAI",855
+scaleai,"Machine Learning Research Engineer, Agents - Enterprise GenAI",818
+scaleai,"Machine Learning Systems Research Engineer, Agent Post-training - Enterprise GenAI",894
+scaleai,"ML Research Engineer, ML Systems",790
+scaleai,"Senior/Staff Machine Learning Research Engineer, General Agents, Enterprise GenAI",1049
+scaleai,"Staff Machine Learning Research Engineer, Agent Post-training - Enterprise GenAI",831
+arizeai,"Forward Deployed AI Engineer, East",774
+arizeai,"Forward Deployed AI Engineer, EMEA",748
+arizeai,"Forward Deployed AI Engineer, West",775
+databricks,AI Engineer - FDE (Forward Deployed Engineer),583
+databricks,Senior Applied AI Engineer,650
+databricks,Senior Data and AI Engineer - Finance,650
+databricks,Senior GenAI Research Engineer - Optimization and Kernels,802
+databricks,Senior Machine Learning Engineer - GenAI Platform ,884
+databricks,Senior Specialist Solutions Architect - AI & ML Engineer,655
+databricks,Senior Staff Applied AI Engineer - Context Retrieval,1378
+databricks,Sr. AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector,761
+databricks,"Staff Data and AI Engineer, Finance",822
+databricks,Staff Machine Learning Engineer ,851
+databricks,"Staff Machine Learning Engineer, CustomerLake (ML/LLM)",934
+databricks,"Staff Research Engineer, Data Agents",735
+brex,"AI Engineer, Ecosystem",802
+brex,"AI Engineer, Product",1018
+gitlab,AI Engineer,1644
+gitlab,"Backend Engineer (Ruby), AI Engineering: Duo Agent Platform Tools",989
+gitlab,"Engineering Manager, AI Engineering: Chat",991
+gitlab,Senior AI Engineer,1532
+gitlab,"Senior Backend Engineer (Ruby), AI Engineering: Duo Agent Platform Tools",1009
+cloudflare,Machine Learning Engineer,1373
+cloudflare,Senior Machine Learning Engineer,1513
+coinbase,"Machine Learning Engineer, CX Intelligence",660
+coinbase,Senior Machine Learning Engineer,822
+coinbase,"Senior Machine Learning Engineer, CX Intelligence ",685
+coinbase,Staff Machine Learning Engineer(Platform - Identity),668
+robinhood,Machine Learning Engineer,956
+instacart,"Machine Learning Engineer, PhD Intern (Fall)",772
+instacart,"Senior Machine Learning Engineer II, Ads Response Prediction",1006
+instacart,"Senior Machine Learning Engineer II, Search & Recommendations Ranking",793
+instacart,"Senior Machine Learning Engineer, Operations Research",658
+instacart,"Senior Machine Learning Engineer, Search & Recommendations",777
+samsara,AI Engineer,1329
+samsara,"Applied AI Specialist, Commercial Customer Success",1882
+samsara,Lead Machine Learning Engineer - ML Infrastructure,1580
+samsara,People Analytics AI Engineer,1598
+samsara,"Senior AI Engineer, Platform",1275
+samsara,Senior Machine Learning Engineer - Platform,1398
+samsara,Staff Machine Learning Engineer - Edge AI,1287
+elastic,Elastic AI Engineer,1354
+datadog,AI Research Engineer - Datadog AI Research (DAIR),1118
+datadog,"Manager I, Applied AI - Distilled Models",748
+datadog,"Manager I, Engineering - Applied AI - Natural Language & Conversational Interfaces",977
+datadog,"Manager II, Engineering - Applied AI (NorAm)",879
+datadog,Senior AI Engineer,719
+datadog,Senior AI Engineer - APM Experiences,876
+datadog,Senior Staff GenAI Engineer - Application Performance Monitoring (APM),878
+datadog,Staff AI Engineer - Cloud FinOps,762
+datadog,Staff AI Engineer - Graphing,719
+datadog,Staff AI Engineer - Notebooks,782
+datadog,Staff GenAI Engineer - Application Performance Monitoring (APM),786
+mongodb,"Senior Software Engineer, Forward Deployed AI Engineer",1041
+twilio,Machine Learning Engineer,829
+twilio,Staff Machine Learning Engineer,1026
+twilio,"Staff, Machine Learning Engineer (L4)",878
+gusto,Head of AI and Machine Learning Engineering,1433
+gusto,Sr. Staff AI/ML Engineer,996
+checkr,Staff Applied AI Engineer,1040
+affirm,Machine Learning Engineer II (Fraud),834
+affirm,Machine Learning Engineer II (Servicing ML),822
+affirm,"Manager, Machine Learning Engineering (Fraud)",786
+affirm,"Manager, Machine Learning Engineering (Repayment & Recovery)",749
+affirm,"Manager, Machine Learning Engineering (Underwriting) ",700
+affirm,Senior Machine Learning Engineer (Fraud),868
+affirm,"Senior Staff Machine Learning Engineer, (Machine Learning)",1038
+chime,AI/ML Engineer,1165
+chime,Senior AI/ML Engineer,1141
+sofi,Senior Staff AI Engineer,1075
+faire,Applied AI / ML Scientist - Ads Bidding,994
+faire,Principal Applied AI / ML Engineer,1064
+faire,Senior Applied AI/ML Scientist - Ads Bidding,994
+faire,Senior Applied AI/ML Scientist - Compass ,1277
+faire,Senior Applied AI/ML Scientist - Fulfillment,981
+faire,Senior Applied AI/ML Scientist - Listing Quality,988
+faire,Senior Applied AI/ML Scientist - Search,952
+mercury,Senior Software Engineer - AI Engineering,632
+securityscorecard,Senior AI Engineer,839
+securityscorecard,"Senior Research Engineer, Threat Intelligence",1333
+securityscorecard,Staff AI Engineer,903
+airbnb,"AI Engineer, Community Support Engineering",691
+airbnb,"Machine Learning Engineer, Community Support Engineering",742
+airbnb,"Machine Learning Engineer, Customer Support Engineering",597
+airbnb,Principal Machine Learning Engineer- LLM Fine-tuning and Optimization ,915
+airbnb,"Senior Machine Learning Engineer, Customer Support Engineering",748
+airbnb,"Senior Machine Learning Engineer, Relevance and Personalization",771
+airbnb,"Senior Staff Machine Learning Engineer, Data & Eval",791
+airbnb,"Senior Staff Machine Learning Engineer, Growth Platform Engineering",1136
+airbnb,"Senior Staff Machine Learning Engineer, Guest & Host",745
+airbnb,"Senior Staff Machine Learning Engineer, Post Training",769
+airbnb,"Staff Machine Learning Engineer, Community Support Engineering",784
+airbnb,"Staff Machine Learning Engineer, Customer Support Engineering",608
+airbnb,"Staff Machine Learning Engineer, Listings and Host Tools Data and AI",768
+lyft,Machine Learning Engineer,923
+lyft,"Senior Machine Learning Engineer, Recommendations",763
+reddit,"Ads Conversion Modeling, Machine Learning Engineering Manager",1069
+reddit,"Machine Learning Engineer, Ads Optimization",1042
+reddit,Machine Learning Engineering Manager - Ads Engagement Modeling ,1031
+reddit,Senior Machine Learning Engineer,1065
+reddit,"Senior Machine Learning Engineer, Ads Foundational Representations",902
+reddit,"Senior Machine Learning Engineer, GenAI Security",1062
+reddit,"Senior Staff Machine Learning Engineer, GenAI Platform",950
+reddit,"Senior Staff Machine Learning Engineer, ML Understanding",1134
+reddit,"Senior Staff Machine Learning Engineer, Notifications",908
+reddit,"Senior Staff ML Engineer, Search & Recommendation",857
+reddit,"Staff Machine Learning Engineer, Ads Content Understanding",1117
+reddit,"Staff Machine Learning Engineer, Ads Measurement Modeling",916
+reddit,"Staff Machine Learning Engineer, Consumer ",1119
+reddit,"Staff Machine Learning Engineer, ML Efficiency ",691
+reddit,"Staff Machine Learning Engineer, Notifications Relevance",871
+reddit,"Staff Research Engineer, Post-training & Evaluation",1224
+stripe,AI Engineer,945
+stripe,"Machine Learning Engineer, Capital Underwriting",627
+stripe,"Machine Learning Engineer, Payment Intelligence",547
+stripe,"ML Engineer Manager, AI Conversation Platform",394
+roblox,"[2026] Senior Machine Learning Engineer, Account Identity - PhD Early Career",860
+roblox,"[2026] Senior Machine Learning Engineer,  Engine Optimization - PhD Early Career",740
+roblox,"[2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career",776
+roblox,"[2026] Senior Machine Learning Engineer (Systems), Embodied AI/NPCs, ML Platform - PhD Early Career",778
+roblox,Distinguished Machine Learning Engineer - Safety,681
+roblox,"Machine Learning Engineering Manager, Critical Harms",849
+roblox,"Principal Machine Learning Engineer, Alt Defense",958
+roblox,"Principal Machine Learning Engineer, Content Safety",907
+roblox,"Principal Machine Learning Engineer, Embodied AI and Smart NPCs",717
+roblox,"Senior Machine Learning Engineer, Ads",652
+roblox,"Senior Machine Learning Engineer, GenAI Data",913
+roblox,Senior Machine Learning Engineering Manager,970
+roblox,"Senior Machine Learning Engineer, Reliability ",794
+roblox,"Senior Machine Learning Engineer, User Behavior",955
+okta,"Principal Software Engineer, AI Engineering",705
+duolingo,Senior AI Engineering Manager ,749
+duolingo,Staff AI Research Engineer ,679
+pinterest,"Director, Machine Learning Engineering – Content & User Understanding",941
+pinterest,"Machine Learning Engineer, Core Engineering",771
+pinterest,"Machine Learning Engineer II, Computer Vision Applied Science ",894
+pinterest,"Machine Learning Engineer II, Core Engineering ",835
+pinterest,"Machine Learning Engineer, Monetization Engineering",834
+pinterest,"Manager II, Machine Learning Engineering, Core Engineering ",985
+pinterest,"Principal Machine Learning Engineer, Ads Delivery",812
+pinterest,"Sr. Machine Learning Engineer, Applied Science",900
+pinterest,"Sr. Machine Learning Engineer, Content Shopping",808
+pinterest,"Sr. Machine Learning Engineer, Core Engineering ",772
+pinterest,"Sr. Machine Learning Engineer, Monetization Engineering",841
+pinterest,"Sr. Machine Learning Engineer, Responsible AI– Applied Research Science",1189
+pinterest,"Sr. Staff Machine Learning Engineer, Content Ecosystem",1096
+pinterest,"Sr. Staff Machine Learning Engineer, Content Quality",889
+pinterest,"Sr. Staff Machine Learning Engineer, Monetization Engineering",772
+pinterest,Staff Machine Learning Engineer,1084
+pinterest,"Staff Machine Learning Engineer, Ads Conversion",792
+pinterest,"Staff Machine Learning Engineer, Ads Measurement Products",1053
+pinterest,"Staff Machine Learning Engineer, Merchants ",1172
+pinterest,"Staff Machine Learning Engineer, Programmatic Ads",849
+nextdoor,Senior Machine Learning Engineer - Ads,800
+nextdoor,Senior Machine Learning Engineer - Notifications/Feed,838
+flexport,Senior Software Engineer: Applied AI,1002
+flexport,Staff Software Engineer: Applied AI,999
+toast,Principal Machine Learning Engineer,1040
+amplitude,Senior AI Engineer,1547
+postman,"Applied AI Scientist, Small Language Model and AI Training",854
+cribl,"Sr Machine Learning Engineer, AI Research",670
+sumologic,AI Tech Lead - Staff Machine Learning Engineer,822
+sumologic,Staff Threat Research Engineer,931
+klaviyo,Senior AI Engineer - Customer Agent,1172
+klaviyo,Sr. Lead AI Engineer,1519
+braze,Applied AI Architect,2576
+iterable,Senior Machine Learning Engineer (Nova),1161
+roku,Machine Learning Engineer,974
+roku,Senior Agentic AI Engineer,1292
+roku,Senior Machine Learning Engineer,1101
+roku,"Senior Machine Learning Engineer, Ad Serving",998
+roku,Senior Machine Learning Engineer - AdTech,1033
+roku,"Senior Machine Learning Engineer, Ad Tech Engineering",1085
+roku,Senior Machine Learning Engineer - Advertising Engineering,1060
+roku,"Senior Machine Learning Engineer, DevOps/SRE",1112
+roku,Senior Machine Learning Engineer – Personalisation & Recommendations,1205
+roku,"Senior Machine Learning Engineer, Search",1082
+roku,"Senior Machine Learning Engineer, Search & Recommendations",1035
+peloton,Staff Enterprise AI Engineer,1294
+oura,Senior AI Engineer – Health Intelligence,1316
+block,"Senior Machine Learning Engineer, AI Personalization",1050
+block,"Senior Machine Learning Engineer, Model Risk Management",1269
+block,"Senior Machine Learning Engineer, Risk Modeling",713
+block,Staff Applied Machine Learning Engineer - Fraud & Abuse,1157
+block,"Staff Applied Machine Learning Engineer - Intelligent Data, Signals & Systems",1137
+block,"Staff Machine Learning Engineer, Credit Products (Square Financial Services)",1100
+block,"Staff Machine Learning Engineer (Modeling), Support",1012
+block,"Staff Machine Learning Engineer, Underwriting and Credit",1296
+zscaler,Senior Machine Learning Engineer (Agentic AI),993
+zscaler,"Sr. Staff Machine Learning Engineer - Data Lake, Anomaly Detection",1163
+zscaler,Sr. Staff Software Development Engineer - AI Engineer,967
+zscaler,Staff Machine Learning Engineer,964
+zscaler,Staff Machine Learning Engineer (Agentic AI),951
+typeface,Principal ML Engineer,742
+typeface,Staff ML Engineer,649
+jetbrains,Founding ML Engineer (Spectrum),575
+jetbrains,Research Engineer (Agentic Models),552
+jetbrains,Research Engineer (Kineto),305
+jetbrains,Research Engineer (LLM Training and Performance),479
+jetbrains,Senior AI Engineer (Core Engine),324
+jetbrains,Senior ML Engineer (JetBrains Research),382
+jetbrains,Senior Research Engineer (Agentic Behavior),942
+jetbrains,Senior Research Engineer (Code World Models),408
+jetbrains,Staff Research Engineer (LLM Pre-Training),437
+jetbrains,"Staff/Senior AI Engineer, AI for Code",739
+youcom,Senior AI Engineer,789
+youcom,"Senior AI Engineer, Product Engineering",1052
+youcom,"Staff AI Engineer, Developer Relations",611
+cresta,Machine Learning Engineering Intern,774
+cresta,Senior Machine Learning Engineer,859
+cresta,Senior Machine Learning Engineer - Voice Experience ,1021
+cresta,Staff Machine Learning Engineer ,817
+observeai,Senior Machine Learning Engineer - NLP,847
+mistral,"AI Engineer, Product",688
+mistral,"Applied AI Engineer,  Senior/Staff Devops/SRE",649
+mistral,"Applied AI Engineer, CyberSecurity",680
+mistral,"Applied AI Engineer, Fullstack",462
+mistral,"Applied AI Engineer, Fullstack Software Engineer - EMEA",523
+mistral,"Applied AI Engineer, ML Infrastructure Engineer / Devops - EMEA",614
+mistral,"Applied AI Engineer, Prototyping",755
+mistral,"Applied AI Engineer, Senior/Staff Fullstack Software Engineer - Singapore",460
+mistral,"Applied AI Engineer, Site Reliability Engineer - EMEA",818
+mistral,"Applied AI,  Senior/Staff Forward Deployed Machine Learning Engineer - Munich",670
+mistral,"Applied AI,  Senior/Staff Forward Deployed Machine Learning Engineer - Singapore",594
+mistral,"Applied AI, Evaluation Engineer",867
+mistral,"Applied AI, Forward Deployed Machine Learning Engineer - EMEA",560
+mistral,"Applied AI, Forward Deployed Machine Learning Engineer - Montreal",806
+mistral,"Applied AI, Forward Deployed Machine Learning Engineer - Morocco",560
+mistral,"Applied AI, Forward Deployed Machine Learning Engineer - Munich",560
+mistral,"Applied AI, Forward Deployed Machine Learning Engineer - Palo Alto",681
+mistral,"Applied AI, Forward Deployed Machine Learning Engineer- Singapore",652
+mistral,"Applied AI, Forward Deployed Machine Learning Engineer, Critical and Sovereign Institutions, EMEA",785
+mistral,"Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris",732
+mistral,"Applied AI, Machine Learning Engineer",610
+mistral,"Applied AI, Technical Lead - Forward Deployed AI Engineer",819
+mistral,"Applied AI, Technical Lead, Forward Deployed AI Engineer - Abu Dhabi",893
+mistral,"Applied AI, Technical Lead, Forward Deployed AI Engineer - EMEA",892
+mistral,"Applied AI, Technical Lead, Forward Deployed AI Engineer - Montreal",896
+mistral,"Applied AI, Technical Lead, Forward Deployed AI Engineer - Munich",892
+mistral,"Applied AI, Use-case, Software Engineer (Harness)",664
+mistral,Applied Scientist / Research Engineer,531
+mistral,Applied Scientist / Research Engineer - Singapore,573
+mistral,Applied Scientist / Research Engineer (Internship),615
+mistral,"Applied Scientist / Research Engineer, AI4Engineering - EMEA",653
+mistral,"Lead/Staff Applied AI Engineer, Fullstack",462
+mistral,"Lead/Staff Applied AI,  Machine Learning Engineer",553
+mistral,Lead/Staff Applied Scientist/Research Engineer,531
+mistral,"Open-Source Software, Machine Learning Engineer",606
+mistral,Research Engineer - Robotics,397
+mistral,"Research Engineer, Data Infrastructure",779
+mistral,"Research Engineer, Machine Learning",483
+mistral,"Research Engineer, Machine Learning - Paris/London/Zurich/Warsaw",526
+mistral,"Senior/Staff Applied AI Engineer, Devops/SRE",649
+mistral,"Senior/Staff Applied Scientist/Research Engineer, EMEA",529
+levelai,Principal AI Research Engineer,347
+levelai,Senior Machine Learning Engineer - NLP (Bangalore/Noida Location),483
+levelai,Senior Machine Learning Engineer (Bangalore/Noida Location),337
+levelai,Sr. Machine Learning Engineer (Speech) - AI (Bangalore/Noida Locations),308
+thinkahead,"Senior AI Engineer, AI Services",858
+jobgether,AI & ML Engineer,497
+jobgether,AI/ML Research Engineer,439
+jobgether,Applied AI Engineer II,423
+jobgether,Data & Machine Learning Engineer,499
+jobgether,"Director, AI Engineering",393
+jobgether,Generative AI Engineer,411
+jobgether,"Investment Banking Associate, AI Internship | Applied AI x Corporate Finance",414
+jobgether,Machine Learning Engineer,452
+jobgether,"Principal Applied AI Developer, Foundation Models Infrastructure",567
+jobgether,Senior / Principal AI / ML Engineer (Product AI Enablement),403
+jobgether,Senior AI Engineer,591
+jobgether,"Senior AI Engineer, Legal",679
+jobgether,Senior Enterprise AI Engineer (AWS Bedrock),530
+jobgether,Senior GenAI/Agentic AI Engineer,434
+jobgether,Senior Machine Learning Engineer,512
+jobgether,"Senior Research Engineer, Threat Intelligence",535
+jobgether,SR AI Engineer,456
+jobgether,Sr. AI engineer,495
+dnb,Senior Gen AI Engineer (R-19088),625
+palantir,Forward Deployed AI Engineer,1006
+swordhealth,Senior AI Engineer (Portugal-based Remote/Hybrid),534
+ro,Senior AI Engineer,909
+ro,Senior Applied AI Scientist,889
+spotify,Machine Learning Engineer,607
+spotify,Senior Applied Research Engineer - Media Quality,636
+spotify,Senior Machine Learning Engineer - Ads R&D,638
+spotify,Senior Machine Learning Engineer - Enrichment & Content Intelligence,645
+spotify,Senior Machine Learning Engineer - Messaging Platform,416
+spotify,Senior Machine Learning Engineer - Policy & Safety,540
+spotify,"Senior Machine Learning Engineer, Personalization, Magenta",575
+spotify,"Senior Machine Learning Engineer, Personalization, Music Understanding",598
+spotify,Senior Staff Machine Learning Engineer - Content Policy & Safety,452
+spotify,"Senior Staff Machine Learning Engineer, Content Platform",487
+spotify,Staff Machine Learning Engineer - Content Intelligence,236
+spotify,Staff Machine Learning Engineer - Policy & Safety,503
+headway,"Applied AI Lead, Rev Ops",859
+profound,AI/ML Engineer,631
+openai,"Research Engineer/Scientist - Human Alignment, Consumer Devices",1005
+openai,"Research Engineer/Research Scientist - Personal AGI, North Stars",737
+openai,Research Engineer / Research Scientist- Personal AGI (Post Training),625
+openai,Research Engineer,542
+openai,"Machine Learning Engineer, Distributed Data Systems - Robotics",663
+openai,"Applied AI Engineer, Codex Core Agent",771
+openai,ML Research Engineer - Hardware Codesign,911
+openai,"Research Engineer, Retrieval & Search, Applied Engineering",697
+openai,"Research Engineer, Codex",1098
+openai,"Research Engineer/Research Scientist, RL/Reasoning",606
+openai,"Research Engineer, Frontier Evals & Environments",943
+openai,"Research Engineer, Applied AI Engineering",792
+openai,"Research Engineer / Research Scientist -Personal AGI, Proactivity ",678
+openai,"Machine Learning Engineer, Integrity",832
+ramp,"Applied AI Engineer, Fullstack",750
+ramp,Applied AI Engineer,639
+cognition,Applied AI Transformation Manager - Europe ,589
+cognition,Applied AI Transformation Manager - MENA,589
+cognition,Applied AI Engineer,630
+cognition,"Research Engineer, Infrastructure",832
+cognition,Applied AI Transformation Manager - APAC,589
+cognition,Applied AI Transformation Manager,589
+baseten,Post-Training Research Engineer,659
+baseten,Applied AI Inference - Forward Deployed Engineer,684
+baseten,Applied AI Inference Engineer,685
+decagon,"Senior Research Engineer, Voice + Speech",593
+decagon,Staff Research Engineer,642
+decagon,"Staff Research Engineer, Voice + Speech",593
+decagon,Senior Research Engineer,614
+writer,AI engineer ,661
+writer,AI engineer (UK) ,548

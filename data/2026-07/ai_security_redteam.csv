@@ -1,0 +1,44 @@
+"# Dexity Intel — real job descriptions backing this role's article. Source: public ATS boards (Greenhouse/Lever/Ashby) official JSON APIs. Snapshot: July 2026, rolling scan. Each row is a real posting — verify by searching the title at the company."
+
+company,job_title,word_count
+anthropic,"Anthropic Fellows Program, AI Security",1725
+anthropic,Applied AI Security Architect,1300
+anthropic,"Research Engineer / Scientist, Frontier Red Team (Cyber)",1274
+scaleai,"Strategic Projects Lead, Red Team",936
+robinhood,Staff Offensive Security Engineer,919
+datadog,"Senior Security Engineer, Offensive Security",827
+twilio,"Staff Enterprise Security Engineer, AI Security",852
+gusto,"Staff Software Engineer, AI Security",980
+chime,Senior Offensive Security Engineer,1265
+sofi,Security Product Lead – Product & AI Security,1114
+reddit,"Senior Machine Learning Engineer, GenAI Security",1062
+reddit,"Senior Security Engineer, AI Security ",1079
+stripe,"Backend Engineer, AI Security",456
+stripe,Security Engineer - Offensive Security,902
+postman,Principal Offensive Security Engineer,1589
+zscaler,"Director, AI Security Specialist",1153
+zscaler,"Director, AI Security Specialist - EMEA",1074
+zscaler,Escalation Engineer - AI Security,1040
+zscaler,Principal AI Security Specialist,1220
+zscaler,"Principal AI Security Specialist, BeNeLux & Nordics",1221
+zscaler,Principal AI Security Specialist - East,1300
+zscaler,Principal AI Security Specialist - Federal,1300
+zscaler,Principal AI Security Specialist - South,1300
+zscaler,"Principal AI Security Specialist, UK&I",1221
+zscaler,Principal AI Security Specialist - West,1300
+zscaler,Professional Service Engineer - AI Security,993
+zscaler,"Senior Software Development Engineer-Network, Security, LLM (AI Security)",1048
+zscaler,Senior Solutions Consultant - AI Security (NY/NJ),1080
+zscaler,"Sr. Staff Software Development Engineer-AI Security (Network, Security, LLM)",1156
+mistral,"CyberSecurity Engineer, Offensive Security",766
+jobgether,AI Safety & Red Teaming Specialist,435
+jobgether,"Director, Offensive Security",468
+jobgether,Enterprise Account Executive - Offensive Security,395
+jobgether,Field Engineer - Application / Offensive Security,475
+jobgether,ML Security Engineer,466
+jobgether,Senior Security Engineer (Red Team),578
+dnb,Senior AI Security Engineer (R-19324),913
+openai,Technical Program Manager – Adversarial Model Research,650
+openai,Biosafety Red Teaming Specialist,969
+openai,"Offensive Security Engineer, Agent Products",1009
+openai,"Researcher, Automated Red Teaming",836

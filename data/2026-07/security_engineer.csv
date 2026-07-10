@@ -1,0 +1,194 @@
+"# Dexity Intel — real job descriptions backing this role's article. Source: public ATS boards (Greenhouse/Lever/Ashby) official JSON APIs. Snapshot: July 2026, rolling scan. Each row is a real posting — verify by searching the title at the company."
+
+company,job_title,word_count
+anthropic,Applied AI Security Architect,1300
+anthropic,"Platform Security Engineering, Operating Systems ",1020
+anthropic,"Platform Security Engineer, OpenBMC",1011
+anthropic,"Security Engineer, Detection & Response",974
+anthropic,Security Engineer - Threat Intel,1170
+anthropic,Senior Software Security Engineer,1104
+anthropic,"Senior/Staff Security Engineer, Threat Intelligence",1107
+anthropic,Staff+ Application Security Engineer,1229
+anthropic,"Staff+ Security Engineer, Risk Engineering",1479
+anthropic,Staff+ Software Security Engineer,1318
+figma,Security Engineer,1085
+scaleai,"Security Engineer, Detection & Response",978
+scaleai,"Security Engineer, Infrastructure",783
+scaleai,"Security Engineer, Product Security",1078
+databricks,"Sr Security Engineer, Incident Response",589
+databricks,Sr. Staff Product Security Engineer,768
+databricks,Staff Enterprise Security Engineer,806
+databricks,Staff Security Detection Engineer ,913
+discord,"Senior Security Engineer, Enterprise Security",698
+brex,Senior Application Security Engineer (Remote),812
+brex,Staff Application Security Engineer,933
+gitlab,"Staff Infrastructure Security Engineer (APAC, EMEA, or US)",987
+airtable,Product Security Engineer,775
+asana,"Security Architecture Engineer, STORM",1002
+asana,"Security Engineer, Detection Engineering",536
+asana,"Security Engineer, Threat Response",784
+robinhood,"Security Engineer, AI Vulnerability Management",822
+robinhood,"Security Engineer, Detection & Response",910
+robinhood,Senior Cloud Security Engineer,742
+robinhood,"Senior Security Engineer, Application Security",824
+robinhood,Staff Offensive Security Engineer,919
+robinhood,"Staff Security Engineer, Application Security",780
+instacart,Senior Detection Engineer,720
+instacart,Senior Product Security Engineer II,654
+instacart,"Senior Security Engineer, Infrastructure",760
+samsara,Sr. Security Engineer - Enterprise Security,1354
+datadog,Security Engineer 2 - Cyber Threat Intelligence,745
+datadog,Senior Application Security Engineer,943
+datadog,Senior Cloud Security Engineer - K8s,839
+datadog,Senior Security Engineer - Cloud SIEM,745
+datadog,"Senior Security Engineer, Offensive Security",827
+datadog,Staff Application Security Engineer,1044
+mongodb,"Senior Product Security Engineer, Cloud",938
+mongodb,"Senior Product Security Engineer, Server",841
+twilio,"Staff Engineer, Security Engineering Partners",870
+twilio,"Staff Enterprise Security Engineer, AI Security",852
+dropbox,Senior Infrastructure Security Engineer,571
+gusto,Senior Staff Security Engineer - Cloud and Network Security,1170
+affirm,Senior Product Security Engineer,776
+affirm,Staff Product Security Engineer,777
+chime,"Manager, Product Security",1206
+chime,Product Security Engineer,1066
+chime,Senior Offensive Security Engineer,1265
+chime,Senior Security Engineer,1035
+faire,Senior Staff Engineer - Product Security,1400
+faire,Staff Engineer - Product Security,1305
+faire,"Staff Security Engineer, Enterprise AI",1287
+verkada,Embedded Linux Security Engineer,851
+verkada,"Security Engineer, Core Command ",901
+verkada,"Staff+ Security Engineer, Developer Tools",903
+vercel,Product Security Engineer,1480
+vercel,"Security Engineer, Cloud",550
+lyft,"Senior Security Engineer, Corporate Security",754
+reddit,"Senior Security Engineer, AI Security ",1079
+reddit,Staff Product Security Engineer,833
+stripe,Cloud Security Engineer,654
+stripe,iOS & macOS Security Engineer ,626
+stripe,Security Engineer,380
+stripe,"Security Engineer, Bridge",501
+stripe,Security Engineer - Offensive Security,902
+stripe,Security Engineer - Threat Detection,721
+stripe,"Software Engineer, Product Security Data Platforms",652
+squarespace,Security Engineer - Incident Response,781
+roblox,"Engineering Manager, Application Security",614
+roblox,Principal Enterprise Security Engineer,719
+roblox,"Principal Security Software Engineer, Application Security",847
+roblox,Senior Cloud Security Engineer ,650
+roblox,Senior Enterprise Security Engineer,679
+roblox,"Senior Security Engineer, Detection and Response",1055
+roblox,"Senior Security Software Engineer, Application Security",846
+okta,"Software Engineer II, Security Engineering (Auth0)",718
+okta,Staff Product Security Engineer,1108
+okta,"Staff Product Security Engineer, Reviews",818
+okta,"Staff Security Engineer, TDI",1225
+okta,"Staff Software Engineer, Security Engineering",855
+pinterest,"Sr. Security Software Engineer, Application Security",729
+flexport,Product Security Engineer II,1267
+betterment,"Sr. Engineering Manager, Application Security",1323
+betterment,Sr. Product Security Engineer ,1079
+betterment,"Sr. Security Engineer, Corporate Information Security",1603
+hightouch,Application Security Lead,789
+mixpanel,Senior Security Engineer,1334
+postman,Principal Offensive Security Engineer,1589
+clickhouse,Cloud Security Engineer,688
+clickhouse,Incident Response Security Engineer,705
+clickhouse,Product Security Engineer,852
+clickhouse,Senior Engineering Manager - Security Engineering,1156
+starburst,Application Security Engineer,773
+dremio,Lead Product Security Engineer,575
+temporaltechnologies,Senior Application Security Engineer,891
+temporaltechnologies,"Senior Security Engineer, GRC",1161
+temporaltechnologies,Staff Cloud Security Engineer,1015
+huntress,"Director, Detection Engineering & Threat Hunting",907
+huntress,Staff Cloud Security Engineer,1134
+klaviyo,"Lead Security Engineer, Enterprise Security",1223
+klaviyo,Senior Security Engineer - Detection and Response,993
+braze,"Senior Security Engineer, Enterprise Security",1373
+marqeta,"Principal Security Engineer, Product & AI",1666
+marqeta,Senior Security Engineer - Cloud Identity ,1066
+roku,Security Engineer,1221
+block,Principal Security Engineer,1133
+block,"Security Engineer, Detection & Response - Monitoring & Triage",1108
+block,"Senior Security Engineer, Platform Security",1186
+block,"Senior Security Engineer, Security Engineering & Operations ",932
+launchdarkly,Product Security Engineer,1154
+zscaler,Detection Engineer- SkillBridge Intern,996
+zscaler,"Security Architect, Agentic AI",1106
+zscaler,"Senior Manager, Information Security Engineering",952
+zscaler, Staff Detection Engineer ,1071
+pingidentity,Cyber Security Engineer III,696
+jetbrains,Senior Security Engineer / Legal Tech Program Manager,710
+youcom,Senior Security Engineer ,694
+gemini,Senior Application Security Engineer,795
+gemini,Senior Platform Security Engineer,773
+gemini,Staff Platform Security Engineer,789
+mistral,"CyberSecurity Engineer, DevSecOps",640
+mistral,"CyberSecurity Engineer, Incident Response Lead",725
+mistral,"CyberSecurity Engineer, Offensive Security",766
+mistral,"CyberSecurity Engineer, SOC Analyst",615
+jobgether,Blockchain Security Engineer - Senior Level (Solidity / Rust / Golang ),447
+jobgether,"Cryptography Engineer - Product Security, Cybersecurity",418
+jobgether,Cyber Security Engineer,504
+jobgether,Data Loss Prevention Security Engineer,489
+jobgether,Detection Engineering & Response Lead,548
+jobgether,ML Security Engineer,466
+jobgether,Multi‑Cloud Security Engineer,686
+jobgether,OCI Security Engineer,497
+jobgether,Product Security Engineer,405
+jobgether,"Security Engineer, Product Security",539
+jobgether,Senior Security Engineer,736
+jobgether,Senior Security Engineer (Red Team),578
+jobgether,Sr AI Information Security Architect,470
+jobgether,"Staff Engineer, Security Engineering Partners",434
+jobgether,Staff Infrastructure Security Engineer,432
+dnb,Senior AI Security Engineer (R-19324),913
+palantir,Application Security Engineer,935
+palantir,Forward Deployed Security Engineer - US Government,1065
+palantir,Information Security Engineer,989
+palantir,Information Security Engineer - DLP,1319
+palantir,Information Security Engineer - Endpoint,1224
+palantir,Information Security Engineer - Insider Risk,1053
+palantir,Senior Identity Security Engineer,1241
+veeva,Application Security Architect,757
+ro,Staff Cloud Security Engineer,1255
+spotify,Cloud Security Engineer,468
+simular,Security Engineer,391
+headway,Senior Security Engineer (Product),1380
+supabase,Product Security Engineer ,720
+profound,Security Engineer,671
+openai,"Security Engineer, Application Security",853
+openai,"Security Engineer, Detection and Response - EMEA",941
+openai,"Security Engineer, Detection and Response",941
+openai,"Security Engineer, Host Assurance",1059
+openai,Forward Deployed Security Engineer,805
+openai,"Principal Security Engineer, Infrastructure Security",863
+openai,"Offensive Security Engineer, Agent Products",1009
+openai,"Security Engineer, Agent Security",888
+openai,"Security Engineer, Infrastructure Security",764
+openai,"Security Engineer, Insider Threat Detection & Response",714
+ramp," Security Engineer, Cloud",647
+ramp,"Security Engineer, Product",688
+ramp,"Security Engineer, Privacy",590
+vanta,Senior Security Engineer,837
+cognition,Security Engineer,648
+persona,Senior Product Security Engineer,510
+persona,"Security Engineer, Enterprise",663
+persona,Product Security Engineer,527
+persona,"Security Engineer, Corporate Security",663
+notion,"Security Engineer, Detection and Response",893
+notion,"Security Engineer, Corporate Security",1348
+zip,Senior Security Engineer,710
+baseten,Security Engineer,615
+modal,Infrastructure Security Engineer,584
+decagon,Security Engineer,669
+decagon,Senior Security Engineer,687
+sierra,"Corporate Security Engineer, Lead",999
+sierra,Security Engineer,1013
+writer,"Security engineer, detection and response (UK)",894
+writer,"Security engineer, application security (UK)",815
+writer,"Security engineer, application security",940
+writer,"Security engineer, detection and response",1004
